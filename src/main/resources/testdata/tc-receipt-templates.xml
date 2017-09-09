@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Receipts>
+    <!-- Swisscom -> Trendcommerce -->
+    <Order>
+        <Filename>Swisscom_Production_KundeXY_1_20160815-160012_A-Post.afp</Filename>
+        <Shipment>2156</Shipment>
+        <Document>3453</Document>
+        <Page>4354</Page>
+        <Supplements>
+            <Supplement id="B123" count="12">Beilage Musikfestival</Supplement>
+            <eSupplement id="E123" count="37">Flyer StuCard</eSupplement>
+        </Supplements>
+    </Order>
+    <OrderReceipt>
+        <Filename>Swisscom_Production_KundeXY_1_20160815-160012_A-Post.afp</Filename>
+        <Origin>Swisscom</Origin>
+        <Client id="KundeXY">KundeXY Dienstleistung (Schweiz) AG</Client>
+        <Environment>Prod</Environment>
+        <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+        <Shipment check="ok">2156</Shipment>
+        <Document check="nok">3453</Document>
+        <Page check="ok">4354</Page>
+        <Supplements>
+            <Supplement id="B123" count="12" check="ok">Beilage Musikfestival</Supplement>
+            <eSupplement id="E123" count="37" check="ok">Flyer StuCard</eSupplement>
+        </Supplements>
+    </OrderReceipt>
+    <InterReceipt>
+        <Filename>Swisscom_Production_KundeXY_1_20160815-160012_A-Post.afp</Filename>
+        <Origin>Swisscom</Origin>
+        <Client id="KundeXY">KundeXY Dienstleistung (Schweiz) AG</Client>
+        <Environment>Production</Environment>
+        <Shipment id="1">
+            <ProviderShipment count="3" id="1">
+                <ProviderInformation id="12345678" page="3" sheet="2" />
+                <ReprintCount>0</ReprintCount>
+                <ManualProcess>automatic</ManualProcess>
+                <PaperType>cutsheet</PaperType>
+                <EnclosureType>C5</EnclosureType>
+                <EnclosurePicture>image123456789.jpg</EnclosurePicture>
+                <PackingTimestamp>2016-08-15T16:00:12+02:00</PackingTimestamp>
+            </ProviderShipment>
+        </Shipment>
+    </InterReceipt>
+    <FinalReceipt>
+        <Shipment id="1">
+            <ProviderShipment count="3" id="1">
+                <PostalInformation>
+                    <ShippingMethod>A-Post</ShippingMethod>
+                    <Postage amount="1.00">A-Post Gross - Grossbrief 1 - 500 g</Postage>
+                    <Region>Schweiz</Region>
+                    <TrackingID type="Paket">99.45254.3452345.345</TrackingID>
+                </PostalInformation>
+            </ProviderShipment>
+        </Shipment>
+    </FinalReceipt>
+</Receipts>
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2334 @@
+2017-08-19 10:58:44 DEBUG Log4JClient:21 - This is debug : mkyong
+2017-08-19 10:58:44 INFO  Log4JClient:25 - This is info : mkyong
+2017-08-19 10:58:44 WARN  Log4JClient:28 - This is warn : mkyong
+2017-08-19 10:58:44 ERROR Log4JClient:29 - This is error : mkyong
+2017-08-19 10:58:44 FATAL Log4JClient:30 - This is fatal : mkyong
+2017-08-19 11:08:39 ERROR Log4JClient:41 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at ch.rno.workshops.clients.WorkshopClient.devide(Log4JClient.java:37)
+	at ch.rno.workshops.clients.WorkshopClient.main(Log4JClient.java:15)
+2017-08-19 11:09:02 INFO  Log4JClient:38 - Result 10/1: 10
+2017-08-19 11:09:23 DEBUG Log4JClient:38 - Result 10/1: 10
+2017-08-19 11:09:57 DEBUG Log4JClient:22 - This is debug : mkyong
+2017-08-19 11:09:57 INFO  Log4JClient:26 - This is info : mkyong
+2017-08-19 11:09:57 WARN  Log4JClient:29 - This is warn : mkyong
+2017-08-19 11:09:57 ERROR Log4JClient:30 - This is error : mkyong
+2017-08-19 11:09:57 FATAL Log4JClient:31 - This is fatal : mkyong
+2017-08-19 11:09:57 DEBUG Log4JClient:38 - Result 10/1: 10
+2017-08-19 11:10:42 DEBUG Log4JClient:22 - This is debug : mkyong
+2017-08-19 11:10:42 INFO  Log4JClient:26 - This is info : mkyong
+2017-08-19 11:10:42 WARN  Log4JClient:29 - This is warn : mkyong
+2017-08-19 11:10:42 ERROR Log4JClient:30 - This is error : mkyong
+2017-08-19 11:10:42 FATAL Log4JClient:31 - This is fatal : mkyong
+2017-08-19 11:10:42 INFO  Log4JClient:38 - Result 10/1: 10
+2017-08-19 11:11:41 ERROR Log4JClient:41 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at ch.rno.workshops.clients.WorkshopClient.devide(Log4JClient.java:37)
+	at ch.rno.workshops.clients.WorkshopClient.main(Log4JClient.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+2017-08-19 11:28:07 INFO  WorkshopClient:25 - Lade XML-Datei: data.xml
+2017-08-19 11:28:07 ERROR WorkshopClient:32 - Error: XMLFile konte nicht initialisiert werden. Pfad: data.xml
+2017-08-19 11:28:37 INFO  WorkshopClient:25 - Lade XML-Datei: resources/data.xml
+2017-08-19 11:28:37 ERROR WorkshopClient:32 - Error: XMLFile konte nicht initialisiert werden. Pfad: resources/data.xml
+2017-08-19 11:28:47 INFO  WorkshopClient:25 - Lade XML-Datei: /resources/data.xml
+2017-08-19 11:28:47 ERROR WorkshopClient:32 - Error: XMLFile konte nicht initialisiert werden. Pfad: /resources/data.xml
+2017-08-19 11:34:20 INFO  WorkshopClient:30 - Lade XML-Datei: resources/data.xml
+2017-08-19 11:34:51 INFO  WorkshopClient:30 - Lade XML-Datei: resources/data.xml
+2017-08-19 11:36:59 INFO  WorkshopClient:30 - Lade XML-Datei: testdata/data.xml
+2017-08-19 11:36:59 ERROR WorkshopClient:39 - Error: XMLFile konte nicht initialisiert werden. Pfad: testdata/data.xml
+2017-08-19 11:37:13 INFO  WorkshopClient:30 - Lade XML-Datei: testdata/data.xml
+2017-08-19 11:37:37 INFO  WorkshopClient:30 - Lade XML-Datei: testdata/data.xml
+2017-08-19 11:37:37 ERROR WorkshopClient:39 - Error: XMLFile konte nicht initialisiert werden. Pfad: testdata/data.xml
+2017-08-19 11:40:47 ERROR WorkshopClient:39 - Error: XMLFile konte nicht initialisiert werden. Pfad: testdata/data.xml
+2017-08-19 11:42:16 INFO  WorkshopClient:27 - Lade XML-Datei: testdata/data.xml
+2017-08-19 11:42:16 INFO  WorkshopClient:34 - XMLFile mit RootNode companyinitialisiert.
+2017-08-19 11:42:29 INFO  WorkshopClient:27 - Lade XML-Datei: testdata/data.xml
+2017-08-19 11:42:29 INFO  WorkshopClient:34 - XMLFile mit RootNode company initialisiert.
+2017-08-19 11:44:35 INFO  WorkshopClient:29 - Lade XML-Datei: testdata/data.xml
+2017-08-19 11:44:35 INFO  WorkshopClient:36 - XMLFile mit RootNode company initialisiert.
+2017-08-19 11:44:35 INFO  WorkshopClient:44 - First Name : yong
+2017-08-19 11:44:35 INFO  WorkshopClient:45 - Last Name : mook kim
+2017-08-19 11:44:35 INFO  WorkshopClient:46 - Nick Name : mkyong
+2017-08-19 11:44:35 INFO  WorkshopClient:47 - Salary : 100000
+2017-08-19 11:44:35 INFO  WorkshopClient:44 - First Name : low
+2017-08-19 11:44:35 INFO  WorkshopClient:45 - Last Name : yin fong
+2017-08-19 11:44:35 INFO  WorkshopClient:46 - Nick Name : fong fong
+2017-08-19 11:44:35 INFO  WorkshopClient:47 - Salary : 200000
+2017-08-19 11:46:51 INFO  WorkshopClient:29 - Lade XML-Datei: testdata/data.xml
+2017-08-19 11:46:51 INFO  WorkshopClient:37 - XMLFile mit RootNode company initialisiert.
+2017-08-19 11:46:51 INFO  WorkshopClient:44 - Lade Element
+2017-08-19 11:46:51 INFO  WorkshopClient:45 - First Name : yong
+2017-08-19 11:46:51 INFO  WorkshopClient:46 - Last Name : mook kim
+2017-08-19 11:46:51 INFO  WorkshopClient:47 - Nick Name : mkyong
+2017-08-19 11:46:51 INFO  WorkshopClient:48 - Salary : 100000
+2017-08-19 11:46:51 INFO  WorkshopClient:44 - Lade Element
+2017-08-19 11:46:51 INFO  WorkshopClient:45 - First Name : low
+2017-08-19 11:46:51 INFO  WorkshopClient:46 - Last Name : yin fong
+2017-08-19 11:46:51 INFO  WorkshopClient:47 - Nick Name : fong fong
+2017-08-19 11:46:51 INFO  WorkshopClient:48 - Salary : 200000
+2017-08-19 11:47:28 INFO  WorkshopClient:29 - Lade XML-Datei: testdata/data.xml
+2017-08-19 11:47:28 INFO  WorkshopClient:37 - XMLFile mit RootNode company initialisiert.
+2017-08-19 11:47:28 INFO  WorkshopClient:44 - Lade Element 'staff' mit index: 0
+2017-08-19 11:47:28 INFO  WorkshopClient:45 - First Name : yong
+2017-08-19 11:47:28 INFO  WorkshopClient:46 - Last Name : mook kim
+2017-08-19 11:47:28 INFO  WorkshopClient:47 - Nick Name : mkyong
+2017-08-19 11:47:28 INFO  WorkshopClient:48 - Salary : 100000
+2017-08-19 11:47:28 INFO  WorkshopClient:44 - Lade Element 'staff' mit index: 1
+2017-08-19 11:47:28 INFO  WorkshopClient:45 - First Name : low
+2017-08-19 11:47:28 INFO  WorkshopClient:46 - Last Name : yin fong
+2017-08-19 11:47:28 INFO  WorkshopClient:47 - Nick Name : fong fong
+2017-08-19 11:47:28 INFO  WorkshopClient:48 - Salary : 200000
+2017-08-19 15:39:55 INFO  WorkshopClient:27 - Lade XML-Datei: testdata/data.xml
+2017-08-19 18:56:14 INFO  LoadXmlNops:33 - Root: XmlNops
+2017-08-19 18:59:23 INFO  LoadXmlNops:33 - Root: XmlNops
+2017-08-19 18:59:23 INFO  LoadXmlNops:36 - File: File
+2017-08-19 18:59:23 INFO  LoadXmlNops:39 - Document: Document
+2017-08-19 18:59:41 INFO  LoadXmlNops:33 - Root: XmlNops
+2017-08-19 18:59:41 INFO  LoadXmlNops:36 - File: File
+2017-08-19 18:59:41 INFO  LoadXmlNops:39 - Document: Document
+2017-08-19 18:59:58 INFO  LoadXmlNops:33 - Root: XmlNops
+2017-08-19 18:59:58 INFO  LoadXmlNops:36 - File: File
+2017-08-19 18:59:58 INFO  LoadXmlNops:39 - Document: Document
+2017-08-19 18:59:58 INFO  LoadXmlNops:42 - Shipment: Shipment
+2017-08-19 18:59:58 INFO  LoadXmlNops:45 - Page: Page
+2017-08-19 19:00:39 INFO  LoadXmlNops:33 - Root-Node: XmlNops
+2017-08-19 19:00:39 INFO  LoadXmlNops:36 - File-Node: File
+2017-08-19 19:00:39 INFO  LoadXmlNops:39 - Document-Node: Document
+2017-08-19 19:00:39 INFO  LoadXmlNops:42 - Shipment-Node: Shipment
+2017-08-19 19:00:39 INFO  LoadXmlNops:45 - Page-Node: Page
+2017-08-19 19:13:48 INFO  LoadXmlNops:33 - Root-Node: XmlNops
+2017-08-19 19:13:48 INFO  LoadXmlNops:36 - File-Node: File
+2017-08-19 19:13:48 INFO  LoadXmlNops:39 - Document-Node: Document
+2017-08-19 19:13:48 INFO  LoadXmlNops:42 - Shipment-Node: Shipment
+2017-08-19 19:13:48 INFO  LoadXmlNops:45 - Page-Node: Page
+2017-08-19 19:19:17 INFO  XMLNopListener:63 - File loaded: document-root-vorgabe.xml
+2017-08-19 19:19:18 INFO  XMLNopListener:45 - Root-Node: XmlNops
+2017-08-19 19:19:18 INFO  XMLNopListener:48 - File-Node: File
+2017-08-19 19:19:18 INFO  XMLNopListener:51 - Document-Node: Document
+2017-08-19 19:19:18 INFO  XMLNopListener:54 - Shipment-Node: Shipment
+2017-08-19 19:19:18 INFO  XMLNopListener:57 - Page-Node: Page
+2017-08-19 20:57:06 INFO  XMLNopListener:76 - File loaded: document-root-vorgabe.xml
+2017-08-19 20:57:06 INFO  XMLNopListener:58 - Root-Node: XmlNops
+2017-08-19 20:57:06 INFO  XMLNopListener:61 - File-Node: File
+2017-08-19 20:57:06 INFO  XMLNopListener:64 - Document-Node: Document
+2017-08-19 20:57:06 INFO  XMLNopListener:67 - Shipment-Node: Shipment
+2017-08-19 20:57:06 INFO  XMLNopListener:70 - Page-Node: Page
+2017-08-19 20:57:26 INFO  XMLNopListener:76 - File loaded: document-root-vorgabe.xml
+2017-08-19 20:57:40 INFO  XMLNopListener:58 - Root-Node: XmlNops
+2017-08-19 20:57:42 INFO  XMLNopListener:61 - File-Node: File
+2017-08-19 20:57:44 INFO  XMLNopListener:64 - Document-Node: Document
+2017-08-19 20:57:45 INFO  XMLNopListener:67 - Shipment-Node: Shipment
+2017-08-19 20:57:48 INFO  XMLNopListener:70 - Page-Node: Page
+2017-08-20 08:09:48 INFO  XMLNopListener:76 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:09:49 INFO  XMLNopListener:58 - Root-Node: XmlNops
+2017-08-20 08:09:49 INFO  XMLNopListener:61 - File-Node: File
+2017-08-20 08:09:49 INFO  XMLNopListener:64 - Document-Node: Document
+2017-08-20 08:09:49 INFO  XMLNopListener:67 - Shipment-Node: Shipment
+2017-08-20 08:09:49 INFO  XMLNopListener:70 - Page-Node: Page
+2017-08-20 08:11:02 INFO  XMLNopListener:76 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:11:02 INFO  XMLNopListener:58 - Root-Node: XmlNops
+2017-08-20 08:11:02 INFO  XMLNopListener:61 - File-Node: File
+2017-08-20 08:11:02 INFO  XMLNopListener:64 - Document-Node: Document
+2017-08-20 08:11:02 INFO  XMLNopListener:67 - Shipment-Node: Shipment
+2017-08-20 08:11:02 INFO  XMLNopListener:70 - Page-Node: Page
+2017-08-20 08:17:34 INFO  XMLNopListener:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:17:35 INFO  XMLNopListener:55 - Root-Node: XmlNops
+2017-08-20 08:17:35 INFO  XMLNopListener:58 - File-Node: File
+2017-08-20 08:17:35 INFO  XMLNopListener:61 - Document-Node: Document
+2017-08-20 08:17:35 INFO  XMLNopListener:64 - Shipment-Node: Shipment
+2017-08-20 08:17:35 INFO  XMLNopListener:67 - Page-Node: Page
+2017-08-20 08:18:05 INFO  XMLNopListener:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:18:10 INFO  XMLNopListener:55 - Root-Node: XmlNops
+2017-08-20 08:18:11 INFO  XMLNopListener:58 - File-Node: File
+2017-08-20 08:18:12 INFO  XMLNopListener:61 - Document-Node: Document
+2017-08-20 08:18:13 INFO  XMLNopListener:64 - Shipment-Node: Shipment
+2017-08-20 08:18:14 INFO  XMLNopListener:67 - Page-Node: Page
+2017-08-20 08:21:05 INFO  XMLNopListener:75 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:21:05 INFO  XMLNopListener:57 - Root-Node: XmlNops
+2017-08-20 08:21:05 INFO  XMLNopListener:60 - File-Node: File
+2017-08-20 08:21:05 INFO  XMLNopListener:63 - Document-Node: Document
+2017-08-20 08:21:05 INFO  XMLNopListener:66 - Shipment-Node: Shipment
+2017-08-20 08:21:05 INFO  XMLNopListener:69 - Page-Node: Page
+2017-08-20 08:24:17 INFO  XMLNopListener:75 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:24:17 INFO  XMLNopListener:57 - Root-Node: XmlNops
+2017-08-20 08:24:17 INFO  XMLNopListener:60 - File-Node: File
+2017-08-20 08:24:17 INFO  XMLNopListener:63 - Document-Node: Document
+2017-08-20 08:24:17 INFO  XMLNopListener:66 - Shipment-Node: Shipment
+2017-08-20 08:24:17 INFO  XMLNopListener:69 - Page-Node: Page
+2017-08-20 08:26:10 INFO  XMLNopListener:75 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:26:10 INFO  XMLNopListener:57 - Root-Node: XmlNops
+2017-08-20 08:26:10 INFO  XMLNopListener:60 - File-Node: File
+2017-08-20 08:26:10 INFO  XMLNopListener:63 - Document-Node: Document
+2017-08-20 08:26:10 INFO  XMLNopListener:66 - Shipment-Node: Shipment
+2017-08-20 08:26:10 INFO  XMLNopListener:69 - Page-Node: Page
+2017-08-20 08:26:52 INFO  XMLNopListener:75 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:26:52 INFO  XMLNopListener:57 - Root-Node: XmlNops
+2017-08-20 08:26:52 INFO  XMLNopListener:60 - File-Node: File
+2017-08-20 08:26:52 INFO  XMLNopListener:63 - Document-Node: Document
+2017-08-20 08:26:52 INFO  XMLNopListener:66 - Shipment-Node: Shipment
+2017-08-20 08:26:52 INFO  XMLNopListener:69 - Page-Node: Page
+2017-08-20 08:30:14 INFO  XMLNopListener:75 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:30:14 INFO  XMLNopListener:57 - Root-Node: XmlNops
+2017-08-20 08:30:14 INFO  XMLNopListener:60 - File-Node: File
+2017-08-20 08:30:14 INFO  XMLNopListener:63 - Document-Node: Document
+2017-08-20 08:30:14 INFO  XMLNopListener:66 - Shipment-Node: Shipment
+2017-08-20 08:30:14 INFO  XMLNopListener:69 - Page-Node: Page
+2017-08-20 08:30:37 INFO  XMLNopListener:75 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:30:37 INFO  XMLNopListener:57 - Root-Node: XmlNops
+2017-08-20 08:30:37 INFO  XMLNopListener:60 - File-Node: File
+2017-08-20 08:30:37 INFO  XMLNopListener:63 - Document-Node: Document
+2017-08-20 08:30:37 INFO  XMLNopListener:66 - Shipment-Node: Shipment
+2017-08-20 08:30:37 INFO  XMLNopListener:69 - Page-Node: Page
+2017-08-20 08:34:28 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:34:28 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:34:28 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:34:28 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:34:28 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:34:28 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:36:49 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:36:49 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:36:49 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:36:49 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:36:49 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:36:49 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:37:03 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:37:03 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:37:03 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:37:03 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:37:03 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:37:03 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:43:37 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:43:37 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:43:37 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:43:37 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:43:37 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:43:37 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:44:25 INFO  WorkshopClient:27 - Lade XML-Datei: testdata/data.xml
+2017-08-20 08:44:32 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:44:32 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:44:32 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:44:32 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:44:32 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:44:32 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:45:01 INFO  WorkshopClient:27 - Lade XML-Datei: testdata/data.xml
+2017-08-20 08:45:11 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:45:11 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:45:11 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:45:11 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:45:11 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:45:11 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:45:56 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:45:56 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:45:56 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:45:56 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:45:56 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:45:56 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:48:56 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:48:56 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:48:56 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:48:56 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:48:56 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:48:56 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:49:10 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:49:10 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:49:10 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:49:10 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:49:10 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:49:10 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:52:18 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:52:18 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:52:18 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:52:18 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:52:18 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:52:18 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:56:10 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:56:10 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:56:10 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:56:10 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:56:10 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:56:10 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:57:06 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:57:06 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:57:06 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:57:06 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:57:06 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:57:06 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:57:35 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:57:35 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:57:35 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:57:35 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:57:35 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:57:35 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:58:18 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:58:18 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:58:18 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:58:18 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:58:18 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:58:18 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:58:30 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:58:30 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:58:30 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:58:30 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:58:30 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:58:30 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:58:49 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:58:49 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:58:49 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:58:49 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:58:49 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:58:49 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:59:03 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:59:04 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:59:04 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:59:04 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:59:04 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:59:04 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 08:59:13 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 08:59:13 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 08:59:13 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 08:59:13 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 08:59:13 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 08:59:13 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 09:00:47 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:00:47 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 09:00:47 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 09:00:47 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 09:00:47 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 09:00:47 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 09:01:31 INFO  XMLNopTools:73 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:01:31 INFO  XMLNopTools:55 - Root-Node: XmlNops
+2017-08-20 09:01:31 INFO  XMLNopTools:58 - File-Node: File
+2017-08-20 09:01:31 INFO  XMLNopTools:61 - Document-Node: Document
+2017-08-20 09:01:31 INFO  XMLNopTools:64 - Shipment-Node: Shipment
+2017-08-20 09:01:31 INFO  XMLNopTools:67 - Page-Node: Page
+2017-08-20 09:06:16 INFO  XMLNopTools:82 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:06:17 INFO  XMLNopTools:64 - Root-Node: XmlNops
+2017-08-20 09:06:17 INFO  XMLNopTools:67 - File-Node: File
+2017-08-20 09:06:17 INFO  XMLNopTools:70 - Document-Node: Document
+2017-08-20 09:06:17 INFO  XMLNopTools:73 - Shipment-Node: Shipment
+2017-08-20 09:06:17 INFO  XMLNopTools:76 - Page-Node: Page
+2017-08-20 09:06:45 INFO  XMLNopTools:82 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:06:45 INFO  XMLNopTools:64 - Root-Node: XmlNops
+2017-08-20 09:06:45 INFO  XMLNopTools:67 - File-Node: File
+2017-08-20 09:06:45 INFO  XMLNopTools:70 - Document-Node: Document
+2017-08-20 09:06:45 INFO  XMLNopTools:73 - Shipment-Node: Shipment
+2017-08-20 09:06:45 INFO  XMLNopTools:76 - Page-Node: Page
+2017-08-20 09:07:18 INFO  XMLNopTools:82 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:07:18 INFO  XMLNopTools:64 - Root-Node: XmlNops
+2017-08-20 09:07:18 INFO  XMLNopTools:67 - File-Node: File
+2017-08-20 09:07:18 INFO  XMLNopTools:70 - Document-Node: Document
+2017-08-20 09:07:18 INFO  XMLNopTools:73 - Shipment-Node: Shipment
+2017-08-20 09:07:18 INFO  XMLNopTools:76 - Page-Node: Page
+2017-08-20 09:07:28 INFO  XMLNopTools:82 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:07:28 INFO  XMLNopTools:64 - Root-Node: XmlNops
+2017-08-20 09:07:28 INFO  XMLNopTools:67 - File-Node: File
+2017-08-20 09:07:28 INFO  XMLNopTools:70 - Document-Node: Document
+2017-08-20 09:07:28 INFO  XMLNopTools:73 - Shipment-Node: Shipment
+2017-08-20 09:07:28 INFO  XMLNopTools:76 - Page-Node: Page
+2017-08-20 09:07:45 INFO  XMLNopTools:82 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:07:45 INFO  XMLNopTools:64 - Root-Node: XmlNops
+2017-08-20 09:07:45 INFO  XMLNopTools:67 - File-Node: File
+2017-08-20 09:07:45 INFO  XMLNopTools:70 - Document-Node: Document
+2017-08-20 09:07:45 INFO  XMLNopTools:73 - Shipment-Node: Shipment
+2017-08-20 09:07:45 INFO  XMLNopTools:76 - Page-Node: Page
+2017-08-20 09:09:00 INFO  XMLNopTools:82 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:09:01 INFO  XMLNopTools:64 - Root-Node: XmlNops
+2017-08-20 09:09:01 INFO  XMLNopTools:67 - File-Node: File
+2017-08-20 09:09:01 INFO  XMLNopTools:70 - Document-Node: Document
+2017-08-20 09:09:01 INFO  XMLNopTools:73 - Shipment-Node: Shipment
+2017-08-20 09:09:01 INFO  XMLNopTools:76 - Page-Node: Page
+2017-08-20 09:13:50 INFO  XMLNopTools:84 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:13:50 INFO  XMLNopTools:66 - Root-Node: XmlNops
+2017-08-20 09:13:50 INFO  XMLNopTools:69 - File-Node: File
+2017-08-20 09:13:50 INFO  XMLNopTools:72 - Document-Node: Document
+2017-08-20 09:13:50 INFO  XMLNopTools:75 - Shipment-Node: Shipment
+2017-08-20 09:13:50 INFO  XMLNopTools:78 - Page-Node: Page
+2017-08-20 09:14:52 INFO  XMLNopTools:84 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:14:52 INFO  XMLNopTools:66 - Root-Node: XmlNops
+2017-08-20 09:14:52 INFO  XMLNopTools:69 - File-Node: File
+2017-08-20 09:14:52 INFO  XMLNopTools:72 - Document-Node: Document
+2017-08-20 09:14:52 INFO  XMLNopTools:75 - Shipment-Node: Shipment
+2017-08-20 09:14:52 INFO  XMLNopTools:78 - Page-Node: Page
+2017-08-20 09:16:04 INFO  XMLNopTools:84 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:16:04 INFO  XMLNopTools:66 - Root-Node: XmlNops
+2017-08-20 09:16:05 INFO  XMLNopTools:69 - File-Node: File
+2017-08-20 09:16:05 INFO  XMLNopTools:72 - Document-Node: Document
+2017-08-20 09:16:05 INFO  XMLNopTools:75 - Shipment-Node: Shipment
+2017-08-20 09:16:05 INFO  XMLNopTools:78 - Page-Node: Page
+2017-08-20 09:22:12 INFO  XMLNopTools:83 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:22:12 INFO  XMLNopTools:65 - Root-Node: XmlNops
+2017-08-20 09:22:12 INFO  XMLNopTools:68 - File-Node: File
+2017-08-20 09:22:12 INFO  XMLNopTools:71 - Document-Node: Document
+2017-08-20 09:22:12 INFO  XMLNopTools:74 - Shipment-Node: Shipment
+2017-08-20 09:22:12 INFO  XMLNopTools:77 - Page-Node: Page
+2017-08-20 09:27:42 INFO  XMLNopTools:83 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:27:42 INFO  XMLNopTools:65 - Root-Node: XmlNops
+2017-08-20 09:27:42 INFO  XMLNopTools:68 - File-Node: File
+2017-08-20 09:27:42 INFO  XMLNopTools:71 - Document-Node: Document
+2017-08-20 09:27:42 INFO  XMLNopTools:74 - Shipment-Node: Shipment
+2017-08-20 09:27:42 INFO  XMLNopTools:77 - Page-Node: Page
+2017-08-20 09:27:42 INFO  XmlNopClient:32 - XmlNop File: <File id="1" name="RNO">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>High</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-08-20 09:28:16 INFO  XMLNopTools:83 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:28:16 INFO  XMLNopTools:65 - Root-Node: XmlNops
+2017-08-20 09:28:16 INFO  XMLNopTools:68 - File-Node: File
+2017-08-20 09:28:16 INFO  XMLNopTools:71 - Document-Node: Document
+2017-08-20 09:28:16 INFO  XMLNopTools:74 - Shipment-Node: Shipment
+2017-08-20 09:28:16 INFO  XMLNopTools:77 - Page-Node: Page
+2017-08-20 09:28:16 INFO  XmlNopClient:32 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>High</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-08-20 09:29:07 INFO  XMLNopTools:83 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:29:07 INFO  XMLNopTools:65 - Root-Node: XmlNops
+2017-08-20 09:29:07 INFO  XMLNopTools:68 - File-Node: File
+2017-08-20 09:29:07 INFO  XMLNopTools:71 - Document-Node: Document
+2017-08-20 09:29:07 INFO  XMLNopTools:74 - Shipment-Node: Shipment
+2017-08-20 09:29:07 INFO  XMLNopTools:77 - Page-Node: Page
+2017-08-20 09:29:20 INFO  XMLNopTools:83 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:29:20 INFO  XMLNopTools:65 - Root-Node: XmlNops
+2017-08-20 09:29:20 INFO  XMLNopTools:68 - File-Node: File
+2017-08-20 09:29:20 INFO  XMLNopTools:71 - Document-Node: Document
+2017-08-20 09:29:20 INFO  XMLNopTools:74 - Shipment-Node: Shipment
+2017-08-20 09:29:20 INFO  XMLNopTools:77 - Page-Node: Page
+2017-08-20 09:29:46 INFO  XMLNopTools:83 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:29:46 INFO  XMLNopTools:65 - Root-Node: XmlNops
+2017-08-20 09:29:46 INFO  XMLNopTools:68 - File-Node: File
+2017-08-20 09:29:46 INFO  XMLNopTools:71 - Document-Node: Document
+2017-08-20 09:29:46 INFO  XMLNopTools:74 - Shipment-Node: Shipment
+2017-08-20 09:29:46 INFO  XMLNopTools:77 - Page-Node: Page
+2017-08-20 09:29:46 INFO  XmlNopClient:33 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>Low</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-08-20 09:37:24 INFO  XMLNopTools:89 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:37:24 INFO  XMLNopTools:71 - Root-Node: XmlNops
+2017-08-20 09:37:24 INFO  XMLNopTools:74 - File-Node: File
+2017-08-20 09:37:24 INFO  XMLNopTools:77 - Document-Node: Document
+2017-08-20 09:37:24 INFO  XMLNopTools:80 - Shipment-Node: Shipment
+2017-08-20 09:37:24 INFO  XMLNopTools:83 - Page-Node: Page
+2017-08-20 09:37:24 INFO  XMLNopTools:31 - timestamp1503214644710
+2017-08-20 09:37:24 INFO  XmlNopClient:36 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>Low</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-08-20 09:37:45 INFO  XMLNopTools:89 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:37:45 INFO  XMLNopTools:71 - Root-Node: XmlNops
+2017-08-20 09:37:45 INFO  XMLNopTools:74 - File-Node: File
+2017-08-20 09:37:45 INFO  XMLNopTools:77 - Document-Node: Document
+2017-08-20 09:37:45 INFO  XMLNopTools:80 - Shipment-Node: Shipment
+2017-08-20 09:37:45 INFO  XMLNopTools:83 - Page-Node: Page
+2017-08-20 09:37:45 INFO  XMLNopTools:31 - timestamp: 1503214665900
+2017-08-20 09:37:46 INFO  XmlNopClient:36 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>Low</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-08-20 09:39:58 INFO  XMLNopTools:92 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:39:58 INFO  XMLNopTools:74 - Root-Node: XmlNops
+2017-08-20 09:39:58 INFO  XMLNopTools:77 - File-Node: File
+2017-08-20 09:39:58 INFO  XMLNopTools:80 - Document-Node: Document
+2017-08-20 09:39:58 INFO  XMLNopTools:83 - Shipment-Node: Shipment
+2017-08-20 09:39:58 INFO  XMLNopTools:86 - Page-Node: Page
+2017-08-20 09:39:58 INFO  XMLNopTools:34 - timestamp: 2017-08-20
+2017-08-20 09:39:58 INFO  XmlNopClient:36 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>Low</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-08-20 09:44:53 INFO  XMLNopTools:93 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:44:54 INFO  XMLNopTools:75 - Root-Node: XmlNops
+2017-08-20 09:44:54 INFO  XMLNopTools:78 - File-Node: File
+2017-08-20 09:44:54 INFO  XMLNopTools:81 - Document-Node: Document
+2017-08-20 09:44:54 INFO  XMLNopTools:84 - Shipment-Node: Shipment
+2017-08-20 09:44:54 INFO  XMLNopTools:87 - Page-Node: Page
+2017-08-20 09:44:54 INFO  XMLNopTools:35 - formattedDate: 2017-08-20
+2017-08-20 09:44:54 INFO  XmlNopClient:36 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>Low</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-08-20 09:45:19 INFO  XMLNopTools:93 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:45:19 INFO  XMLNopTools:75 - Root-Node: XmlNops
+2017-08-20 09:45:19 INFO  XMLNopTools:78 - File-Node: File
+2017-08-20 09:45:19 INFO  XMLNopTools:81 - Document-Node: Document
+2017-08-20 09:45:19 INFO  XMLNopTools:84 - Shipment-Node: Shipment
+2017-08-20 09:45:19 INFO  XMLNopTools:87 - Page-Node: Page
+2017-08-20 09:45:19 INFO  XMLNopTools:35 - formattedDate: 2017-08-20 09:45
+2017-08-20 09:45:19 INFO  XmlNopClient:36 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>Low</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-08-20 09:46:57 INFO  XMLNopTools:94 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:46:57 INFO  XMLNopTools:76 - Root-Node: XmlNops
+2017-08-20 09:46:57 INFO  XMLNopTools:79 - File-Node: File
+2017-08-20 09:46:57 INFO  XMLNopTools:82 - Document-Node: Document
+2017-08-20 09:46:57 INFO  XMLNopTools:85 - Shipment-Node: Shipment
+2017-08-20 09:46:57 INFO  XMLNopTools:88 - Page-Node: Page
+2017-08-20 09:47:11 INFO  XMLNopTools:94 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:47:11 INFO  XMLNopTools:76 - Root-Node: XmlNops
+2017-08-20 09:47:11 INFO  XMLNopTools:79 - File-Node: File
+2017-08-20 09:47:11 INFO  XMLNopTools:82 - Document-Node: Document
+2017-08-20 09:47:11 INFO  XMLNopTools:85 - Shipment-Node: Shipment
+2017-08-20 09:47:11 INFO  XMLNopTools:88 - Page-Node: Page
+2017-08-20 09:47:19 INFO  XMLNopTools:94 - File loaded: document-root-vorgabe.xml
+2017-08-20 09:47:19 INFO  XMLNopTools:76 - Root-Node: XmlNops
+2017-08-20 09:47:19 INFO  XMLNopTools:79 - File-Node: File
+2017-08-20 09:47:19 INFO  XMLNopTools:82 - Document-Node: Document
+2017-08-20 09:47:19 INFO  XMLNopTools:85 - Shipment-Node: Shipment
+2017-08-20 09:47:19 INFO  XMLNopTools:88 - Page-Node: Page
+2017-08-20 09:47:19 INFO  XMLNopTools:36 - formattedDate: 2017-08-20 09:47:19
+2017-08-20 09:47:20 INFO  XmlNopClient:36 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>Low</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-08-20 10:47:25 INFO  XMLNopTools:113 - File loaded: document-root-vorgabe.xml
+2017-08-20 10:47:26 INFO  XMLNopTools:95 - Root-Node: XmlNops
+2017-08-20 10:47:26 INFO  XMLNopTools:98 - File-Node: File
+2017-08-20 10:47:26 INFO  XMLNopTools:101 - Document-Node: Document
+2017-08-20 10:47:26 INFO  XMLNopTools:104 - Shipment-Node: Shipment
+2017-08-20 10:47:26 INFO  XMLNopTools:107 - Page-Node: Page
+2017-08-20 10:47:26 INFO  XMLNopTools:55 - formattedDate: 2017-08-20 10:47:26
+2017-08-20 10:47:26 INFO  XmlNopClient:36 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>Low</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-08-20 10:48:41 INFO  XMLNopTools:113 - File loaded: document-root-vorgabe.xml
+2017-08-20 10:48:41 INFO  XMLNopTools:95 - Root-Node: XmlNops
+2017-08-20 10:48:41 INFO  XMLNopTools:98 - File-Node: File
+2017-08-20 10:48:41 INFO  XMLNopTools:101 - Document-Node: Document
+2017-08-20 10:48:41 INFO  XMLNopTools:104 - Shipment-Node: Shipment
+2017-08-20 10:48:41 INFO  XMLNopTools:107 - Page-Node: Page
+2017-08-20 10:48:41 INFO  XmlNopClient:29 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>Low</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-08-20 10:50:08 INFO  XMLNopTools:113 - File loaded: document-root-vorgabe.xml
+2017-08-20 10:50:08 INFO  XmlNopClient:29 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>Low</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-08-20 10:50:32 INFO  XMLNopTools:113 - File loaded: document-root-vorgabe.xml
+2017-08-20 10:50:32 DEBUG XMLNopTools:95 - Root-Node: XmlNops
+2017-08-20 10:50:32 DEBUG XMLNopTools:98 - File-Node: File
+2017-08-20 10:50:32 DEBUG XMLNopTools:101 - Document-Node: Document
+2017-08-20 10:50:32 DEBUG XMLNopTools:104 - Shipment-Node: Shipment
+2017-08-20 10:50:32 DEBUG XMLNopTools:107 - Page-Node: Page
+2017-08-20 10:50:32 INFO  XmlNopClient:29 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>Low</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-09-01 19:10:29 INFO  XMLNopTools:113 - File loaded: document-root-vorgabe.xml
+2017-09-01 19:10:29 DEBUG XMLNopTools:95 - Root-Node: XmlNops
+2017-09-01 19:10:29 DEBUG XMLNopTools:98 - File-Node: File
+2017-09-01 19:10:29 DEBUG XMLNopTools:101 - Document-Node: Document
+2017-09-01 19:10:29 DEBUG XMLNopTools:104 - Shipment-Node: Shipment
+2017-09-01 19:10:29 DEBUG XMLNopTools:107 - Page-Node: Page
+2017-09-01 19:10:29 INFO  XmlNopClient:25 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>Swisscom</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>High</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-09-01 19:12:05 INFO  XMLNopTools:113 - File loaded: document-root-vorgabe.xml
+2017-09-01 19:12:05 DEBUG XMLNopTools:95 - Root-Node: XmlNops
+2017-09-01 19:12:05 DEBUG XMLNopTools:98 - File-Node: File
+2017-09-01 19:12:05 DEBUG XMLNopTools:101 - Document-Node: Document
+2017-09-01 19:12:05 DEBUG XMLNopTools:104 - Shipment-Node: Shipment
+2017-09-01 19:12:05 DEBUG XMLNopTools:107 - Page-Node: Page
+2017-09-01 19:14:08 INFO  XmlNopClient:25 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>Swisscom</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>High</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-09-01 19:14:20 INFO  XMLNopTools:113 - File loaded: document-root-vorgabe.xml
+2017-09-01 19:14:20 DEBUG XMLNopTools:95 - Root-Node: XmlNops
+2017-09-01 19:14:20 DEBUG XMLNopTools:98 - File-Node: File
+2017-09-01 19:14:20 DEBUG XMLNopTools:101 - Document-Node: Document
+2017-09-01 19:14:20 DEBUG XMLNopTools:104 - Shipment-Node: Shipment
+2017-09-01 19:14:20 DEBUG XMLNopTools:107 - Page-Node: Page
+2017-09-01 19:14:43 INFO  XmlNopClient:25 - XmlNop File: 
+<File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>High</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-09-01 19:15:00 INFO  XMLNopTools:113 - File loaded: document-root-vorgabe.xml
+2017-09-01 19:15:00 DEBUG XMLNopTools:95 - Root-Node: XmlNops
+2017-09-01 19:15:00 DEBUG XMLNopTools:98 - File-Node: File
+2017-09-01 19:15:00 DEBUG XMLNopTools:101 - Document-Node: Document
+2017-09-01 19:15:00 DEBUG XMLNopTools:104 - Shipment-Node: Shipment
+2017-09-01 19:15:00 DEBUG XMLNopTools:107 - Page-Node: Page
+2017-09-01 19:18:21 INFO  XmlNopClient:25 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>Swisscom</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>High</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-09-01 19:18:40 INFO  XMLNopTools:113 - File loaded: document-root-vorgabe.xml
+2017-09-01 19:18:40 DEBUG XMLNopTools:95 - Root-Node: XmlNops
+2017-09-01 19:18:40 DEBUG XMLNopTools:98 - File-Node: File
+2017-09-01 19:18:40 DEBUG XMLNopTools:101 - Document-Node: Document
+2017-09-01 19:18:40 DEBUG XMLNopTools:104 - Shipment-Node: Shipment
+2017-09-01 19:18:40 DEBUG XMLNopTools:107 - Page-Node: Page
+2017-09-01 19:30:41 INFO  XMLNopTools:137 - File loaded: document-root-vorgabe.xml
+2017-09-01 19:30:41 DEBUG XMLNopTools:119 - Root-Node: XmlNops
+2017-09-01 19:30:41 DEBUG XMLNopTools:122 - File-Node: File
+2017-09-01 19:30:41 DEBUG XMLNopTools:125 - Document-Node: Document
+2017-09-01 19:30:41 DEBUG XMLNopTools:128 - Shipment-Node: Shipment
+2017-09-01 19:30:41 DEBUG XMLNopTools:131 - Page-Node: Page
+2017-09-01 19:30:57 DEBUG XMLNopTools:67 - Attribute, newValue, oldValue: nameRNORNO
+2017-09-01 19:30:57 INFO  XmlNopClient:25 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>Swisscom</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>High</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-09-01 19:31:13 INFO  XMLNopTools:137 - File loaded: document-root-vorgabe.xml
+2017-09-01 19:31:13 DEBUG XMLNopTools:119 - Root-Node: XmlNops
+2017-09-01 19:31:13 DEBUG XMLNopTools:122 - File-Node: File
+2017-09-01 19:31:13 DEBUG XMLNopTools:125 - Document-Node: Document
+2017-09-01 19:31:13 DEBUG XMLNopTools:128 - Shipment-Node: Shipment
+2017-09-01 19:31:13 DEBUG XMLNopTools:131 - Page-Node: Page
+2017-09-01 19:31:16 DEBUG XMLNopTools:66 - Attribute, newValue, oldValue: nameRNOSwisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp
+2017-09-01 19:31:39 INFO  XmlNopClient:25 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>Swisscom</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>High</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-09-01 19:31:44 INFO  XMLNopTools:137 - File loaded: document-root-vorgabe.xml
+2017-09-01 19:31:44 DEBUG XMLNopTools:119 - Root-Node: XmlNops
+2017-09-01 19:31:44 DEBUG XMLNopTools:122 - File-Node: File
+2017-09-01 19:31:44 DEBUG XMLNopTools:125 - Document-Node: Document
+2017-09-01 19:31:44 DEBUG XMLNopTools:128 - Shipment-Node: Shipment
+2017-09-01 19:31:44 DEBUG XMLNopTools:131 - Page-Node: Page
+2017-09-01 19:31:44 DEBUG XMLNopTools:66 - Attribute, newValue, oldValue: name, RNO, Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp
+2017-09-01 19:31:44 INFO  XmlNopClient:25 - XmlNop File: 
+<File id="1" name="RNO">
+  <Origin>Swisscom</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>High</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-09-01 19:32:30 INFO  XMLNopTools:137 - File loaded: document-root-vorgabe.xml
+2017-09-01 19:32:30 DEBUG XMLNopTools:119 - Root-Node: XmlNops
+2017-09-01 19:32:30 DEBUG XMLNopTools:122 - File-Node: File
+2017-09-01 19:32:30 DEBUG XMLNopTools:125 - Document-Node: Document
+2017-09-01 19:32:30 DEBUG XMLNopTools:128 - Shipment-Node: Shipment
+2017-09-01 19:32:30 DEBUG XMLNopTools:131 - Page-Node: Page
+2017-09-01 19:32:42 INFO  XmlNopClient:25 - XmlNop File: 
+<File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>High</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-09-01 19:33:16 INFO  XMLNopTools:138 - File loaded: document-root-vorgabe.xml
+2017-09-01 19:33:16 DEBUG XMLNopTools:120 - Root-Node: XmlNops
+2017-09-01 19:33:16 DEBUG XMLNopTools:123 - File-Node: File
+2017-09-01 19:33:16 DEBUG XMLNopTools:126 - Document-Node: Document
+2017-09-01 19:33:16 DEBUG XMLNopTools:129 - Shipment-Node: Shipment
+2017-09-01 19:33:16 DEBUG XMLNopTools:132 - Page-Node: Page
+2017-09-01 19:33:16 DEBUG XMLNopTools:73 - element, newValue, oldValue: Origin, RNO, Swisscom
+2017-09-01 19:33:16 INFO  XmlNopClient:25 - XmlNop File: 
+<File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+  <Origin>RNO</Origin>
+  <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+  <Version>1</Version>
+  <Environment>Prod</Environment>
+  <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+  <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+  <Priority>High</Priority>
+  <Comment>Kommentar</Comment>
+</File>
+2017-09-02 07:47:20 INFO  XMLNopTools:121 - File loaded: document-root-vorgabe.xml
+2017-09-02 07:49:25 DEBUG XMLTools:125 - File loaded: document-root-vorgabe.xml
+2017-09-02 07:49:25 INFO  XmlNopClient:23 - XmlNop File: 
+<XmlNops>
+  <File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+</XmlNops>
+2017-09-02 07:50:35 DEBUG XMLTools:125 - File loaded: document-root-vorgabe.xml
+2017-09-02 07:51:08 INFO  XmlNopClient:23 - XmlNop File: 
+<XmlNops>
+  <File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+</XmlNops>
+2017-09-02 07:57:09 DEBUG XMLTools:125 - File loaded: document-root-vorgabe.xml
+2017-09-02 07:57:09 DEBUG XMLTools:65 - element, newValue, oldValue: Origin, rno, Swisscom
+2017-09-02 07:57:09 INFO  XmlNopClient:23 - root: <XmlNops>
+  <File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>rno</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+</XmlNops>
+2017-09-02 07:59:17 DEBUG XMLTools:127 - File loaded: document-root-vorgabe.xml
+2017-09-02 07:59:17 DEBUG XMLTools:65 - element, newValue, oldValue: Origin, rno, Swisscom
+2017-09-02 07:59:17 INFO  XmlNopClient:23 - root: <Origin>rno</Origin>
+2017-09-02 07:59:45 DEBUG XMLTools:127 - File loaded: document-root-vorgabe.xml
+2017-09-02 07:59:45 DEBUG XMLTools:65 - element, newValue, oldValue: Origin, rno, Swisscom
+2017-09-02 08:00:24 DEBUG XMLTools:127 - File loaded: document-root-vorgabe.xml
+2017-09-02 08:00:27 DEBUG XMLTools:65 - element, newValue, oldValue: Origin, rno, Swisscom
+2017-09-02 08:01:04 DEBUG XMLTools:127 - File loaded: document-root-vorgabe.xml
+2017-09-02 08:01:04 DEBUG XMLTools:65 - element, newValue, oldValue: Origin, rno, Swisscom
+2017-09-02 08:01:26 DEBUG XMLTools:127 - File loaded: document-root-vorgabe.xml
+2017-09-02 08:01:26 DEBUG XMLTools:65 - element, newValue, oldValue: Origin, rno, Swisscom
+2017-09-02 08:04:23 DEBUG XMLTools:127 - File loaded: document-root-vorgabe.xml
+2017-09-02 08:04:23 DEBUG XMLTools:65 - element, newValue, oldValue: Origin, rno, Swisscom
+2017-09-02 08:04:23 INFO  XmlNopClient:23 - root: <Origin>rno</Origin>
+2017-09-02 08:04:32 DEBUG XMLTools:127 - File loaded: document-root-vorgabe.xml
+2017-09-02 08:04:32 DEBUG XMLTools:65 - element, newValue, oldValue: Origin, Test, Swisscom
+2017-09-02 08:04:32 INFO  XmlNopClient:23 - root: <Origin>Test</Origin>
+2017-09-02 08:05:25 DEBUG XMLTools:127 - File loaded: document-root-vorgabe.xml
+2017-09-02 08:05:25 DEBUG XMLTools:65 - element, newValue, oldValue: Origin, Test, Swisscom
+2017-09-02 08:05:25 INFO  XmlNopClient:23 - root: <Origin>Test</Origin>
+2017-09-02 08:05:41 DEBUG XMLTools:127 - File loaded: document-root-vorgabe.xml
+2017-09-02 08:05:41 DEBUG XMLTools:65 - element, newValue, oldValue: Origin, Test, Swisscom
+2017-09-02 08:05:51 INFO  XmlNopClient:23 - root: <Origin>Test</Origin>
+2017-09-02 08:06:10 DEBUG XMLTools:127 - File loaded: document-root-vorgabe.xml
+2017-09-02 08:06:10 DEBUG XMLTools:65 - element, newValue, oldValue: Origin, Test, Swisscom
+2017-09-02 08:06:10 DEBUG XMLTools:84 - parent, element, value: Origin, id, 1
+2017-09-02 08:06:10 INFO  XmlNopClient:23 - root: <Origin>
+  Test
+  <id>1</id>
+</Origin>
+2017-09-02 08:06:28 DEBUG XMLTools:127 - File loaded: document-root-vorgabe.xml
+2017-09-02 08:06:28 DEBUG XMLTools:84 - parent, element, value: Origin, id, 1
+2017-09-02 08:06:28 INFO  XmlNopClient:23 - root: <Origin>
+  Swisscom
+  <id>1</id>
+</Origin>
+2017-09-02 09:23:01 DEBUG XmlNopClient:17 - @BeforeClass - runOnceBeforeClass
+2017-09-02 09:23:01 DEBUG XmlNopClient:30 - @Before - runBeforeTestMethod
+2017-09-02 09:23:01 DEBUG XmlNopClient:41 - @Test - test_method_1
+2017-09-02 09:23:01 DEBUG XmlNopClient:36 - @After - runAfterTestMethod
+2017-09-02 09:23:01 DEBUG XmlNopClient:30 - @Before - runBeforeTestMethod
+2017-09-02 09:23:01 DEBUG XmlNopClient:46 - @Test - test_method_2
+2017-09-02 09:23:01 DEBUG XmlNopClient:36 - @After - runAfterTestMethod
+2017-09-02 09:23:01 DEBUG XmlNopClient:23 - @AfterClass - runOnceAfterClass
+2017-09-02 09:24:56 DEBUG XmlNopClient:19 - @BeforeClass - runOnceBeforeClass
+2017-09-02 09:24:56 DEBUG XmlNopClient:32 - @Before - runBeforeTestMethod
+2017-09-02 09:24:56 DEBUG XmlNopClient:43 - @Test - test_method_1
+2017-09-02 09:24:56 DEBUG XmlNopClient:38 - @After - runAfterTestMethod
+2017-09-02 09:24:56 DEBUG XmlNopClient:32 - @Before - runBeforeTestMethod
+2017-09-02 09:24:56 DEBUG XmlNopClient:48 - @Test - test_method_2
+2017-09-02 09:24:56 DEBUG XmlNopClient:38 - @After - runAfterTestMethod
+2017-09-02 09:24:56 DEBUG XmlNopClient:32 - @Before - runBeforeTestMethod
+2017-09-02 09:24:56 DEBUG XmlNopClient:38 - @After - runAfterTestMethod
+2017-09-02 09:24:56 DEBUG XmlNopClient:32 - @Before - runBeforeTestMethod
+2017-09-02 09:24:56 DEBUG XmlNopClient:38 - @After - runAfterTestMethod
+2017-09-02 09:24:56 DEBUG XmlNopClient:25 - @AfterClass - runOnceAfterClass
+2017-09-02 09:27:05 INFO  XmlNopClient:43 - @Test - test_method_1
+2017-09-02 09:28:28 INFO  XmlNopClient:43 - @Test - test_XMLTools: test constructors.
+2017-09-02 09:36:25 INFO  XmlNopClient:50 - @Test - test_XMLTools: test constructors.
+2017-09-02 09:36:25 ERROR XMLTools:147 - IOException init(): 
+java.io.FileNotFoundException: D:\dev\XmlNop\target\classes\testdata%5cdocument-root-vorgabe.xml (Das System kann die angegebene Datei nicht finden)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:90)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:188)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:622)
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:189)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:217)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:277)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:264)
+	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1116)
+	at XMLTools.init(XMLTools.java:142)
+	at XMLTools.<init>(XMLTools.java:48)
+	at ch.rno.workshops.junit.XMLToolsTest.testXMLTools(BasicAnnotationTest.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:51)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:237)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+2017-09-02 09:36:46 INFO  XmlNopClient:50 - @Test - test_XMLTools: test constructors.
+2017-09-02 09:39:06 INFO  XmlNopClient:53 - @Test - test_XMLTools: test constructors.
+2017-09-02 09:39:19 INFO  XmlNopClient:53 - @Test - test_XMLTools: test constructors.
+2017-09-02 09:39:46 INFO  XmlNopClient:53 - @Test - test_XMLTools: test constructors.
+2017-09-02 09:43:06 INFO  XmlNopClient:54 - @Test - test_XMLTools: test constructor based on resource.
+2017-09-02 09:43:06 INFO  XmlNopClient:58 - hasProperty("root")
+2017-09-02 09:43:17 INFO  XmlNopClient:54 - @Test - test_XMLTools: test constructor based on resource.
+2017-09-02 09:43:17 INFO  XmlNopClient:58 - hasProperty("roota")
+2017-09-02 09:43:39 INFO  XmlNopClient:54 - @Test - test_XMLTools: test constructor based on resource.
+2017-09-02 09:44:14 INFO  XmlNopClient:54 - @Test - test_XMLTools: test constructor based on resource.
+2017-09-02 09:44:15 INFO  XmlNopClient:58 - hasProperty("root"): XmlNops
+2017-09-02 09:47:27 INFO  XmlNopClient:55 - @Test - test_XMLTools: test constructor based on resource.
+2017-09-02 09:47:27 INFO  XmlNopClient:60 - hasProperty("root"): XmlNops
+2017-09-02 09:47:27 INFO  XmlNopClient:63 - xmlTools.getRoot().getName(): XmlNops
+2017-09-02 09:47:57 INFO  XmlNopClient:55 - @Test - test_XMLTools: test constructor based on resource.
+2017-09-02 09:47:58 INFO  XmlNopClient:60 - @Test - hasProperty("root"): XmlNops
+2017-09-02 09:47:58 INFO  XmlNopClient:63 - @Test - xmlTools.getRoot().getName(): XmlNops
+2017-09-02 09:49:17 INFO  XmlNopClient:55 - @testXMLTools - test_XMLTools: test constructor based on resource.
+2017-09-02 09:49:17 INFO  XmlNopClient:60 - @testXMLTools - hasProperty("root"): XmlNops
+2017-09-02 09:49:17 INFO  XmlNopClient:63 - @testXMLTools - xmlTools.getRoot().getName(): XmlNops
+2017-09-02 09:50:04 INFO  XmlNopClient:55 - @testXMLTools - test_XMLTools: test constructor based on resource.
+2017-09-02 09:50:04 INFO  XmlNopClient:60 - @testXMLTools(resource) - hasProperty("root"): XmlNops
+2017-09-02 09:50:04 INFO  XmlNopClient:63 - @testXMLTools(resource) - xmlTools.getRoot().getName(): XmlNops
+2017-09-02 09:50:28 INFO  XmlNopClient:59 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 09:50:28 INFO  XmlNopClient:62 - @testXMLTools(resource): xmlTools.getRoot().getName(): XmlNops
+2017-09-02 09:51:30 INFO  XmlNopClient:59 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 09:51:30 INFO  XmlNopClient:62 - false
+2017-09-02 09:52:34 INFO  XmlNopClient:59 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 09:52:34 INFO  XmlNopClient:62 - @testXMLTools(resource): Matchers.equalTo("XmlNops"): true
+2017-09-02 09:53:02 INFO  XmlNopClient:59 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 09:53:02 INFO  XmlNopClient:62 - @testXMLTools(resource): RootName.equalTo("XmlNops"): true
+2017-09-02 10:09:49 INFO  XmlNopClient:81 - @testUpdateElement(origin): equalsTo('rno'): true
+2017-09-02 10:09:49 INFO  XmlNopClient:68 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 10:09:49 INFO  XmlNopClient:71 - @testXMLTools(resource): RootName.equalTo("XmlNops"): true
+2017-09-02 10:10:20 INFO  XmlNopClient:81 - @testUpdateElement(origin): equalsTo('rno'): true
+2017-09-02 10:10:20 INFO  XmlNopClient:68 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 10:10:20 INFO  XmlNopClient:71 - @testXMLTools(resource): RootName.equalTo("XmlNops"): true
+2017-09-02 10:11:34 INFO  XmlNopClient:81 - @testUpdateElement(origin): equalsTo('rno'): true
+2017-09-02 10:11:34 INFO  XmlNopClient:82 - @testUpdateElement(origin): <Origin>rno</Origin>
+2017-09-02 10:11:34 INFO  XmlNopClient:68 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 10:11:34 INFO  XmlNopClient:71 - @testXMLTools(resource): RootName.equalTo("XmlNops"): true
+2017-09-02 10:11:48 INFO  XmlNopClient:81 - @testUpdateElement(origin): equalsTo('rno'): true
+2017-09-02 10:11:48 INFO  XmlNopClient:82 - @testUpdateElement(origin): <Origin>rno</Origin>
+2017-09-02 10:11:48 INFO  XmlNopClient:68 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 10:11:48 INFO  XmlNopClient:71 - @testXMLTools(resource): RootName.equalTo("XmlNops"): true
+2017-09-02 10:15:44 INFO  XmlNopClient:68 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 10:15:44 INFO  XmlNopClient:71 - @testXMLTools(resource): RootName.equalTo("XmlNops"): true
+2017-09-02 10:16:11 INFO  XmlNopClient:81 - @testUpdateElement(origin): equalsTo('rno'): true
+2017-09-02 10:16:11 INFO  XmlNopClient:82 - @testUpdateElement(origin): <Origin>rno</Origin>
+2017-09-02 10:16:11 INFO  XmlNopClient:68 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 10:16:11 INFO  XmlNopClient:71 - @testXMLTools(resource): RootName.equalTo("XmlNops"): true
+2017-09-02 11:22:58 INFO  XMLToolsTest:78 - @testUpdateElement(origin): equalsTo('rno'): true
+2017-09-02 11:22:58 INFO  XMLToolsTest:79 - @testUpdateElement(origin): <Origin>rno</Origin>
+2017-09-02 11:22:58 INFO  XMLToolsTest:65 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 11:22:58 INFO  XMLToolsTest:68 - @testXMLTools(resource): RootName.equalTo("XmlNops"): true
+2017-09-02 11:23:25 DEBUG XMLTools:131 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:23:26 DEBUG XMLTools:159 - Document created from File with root-node: XmlNops
+2017-09-02 11:23:26 DEBUG XMLTools:69 - element, newValue, oldValue: Origin, rno, Swisscom
+2017-09-02 11:23:26 INFO  XMLToolsTest:78 - @testUpdateElement(origin): equalsTo('rno'): true
+2017-09-02 11:23:26 INFO  XMLToolsTest:79 - @testUpdateElement(origin): <Origin>rno</Origin>
+2017-09-02 11:23:26 DEBUG XMLTools:131 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:23:26 DEBUG XMLTools:159 - Document created from File with root-node: XmlNops
+2017-09-02 11:23:26 DEBUG XMLTools:131 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:23:26 DEBUG XMLTools:159 - Document created from File with root-node: XmlNops
+2017-09-02 11:23:26 INFO  XMLToolsTest:65 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 11:23:26 INFO  XMLToolsTest:68 - @testXMLTools(resource): RootName.equalTo("XmlNops"): true
+2017-09-02 11:24:30 DEBUG XMLTools:131 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:24:30 DEBUG XMLTools:159 - Document created from File with root-node: XmlNops
+2017-09-02 11:24:30 DEBUG XMLTools:69 - updateElement(): element, newValue, oldValue: Origin, rno, Swisscom
+2017-09-02 11:24:30 INFO  XMLToolsTest:78 - @testUpdateElement(origin): equalsTo('rno'): true
+2017-09-02 11:24:30 INFO  XMLToolsTest:79 - @testUpdateElement(origin): <Origin>rno</Origin>
+2017-09-02 11:24:30 DEBUG XMLTools:131 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:24:30 DEBUG XMLTools:159 - Document created from File with root-node: XmlNops
+2017-09-02 11:24:30 DEBUG XMLTools:131 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:24:30 DEBUG XMLTools:159 - Document created from File with root-node: XmlNops
+2017-09-02 11:24:30 INFO  XMLToolsTest:65 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 11:24:30 INFO  XMLToolsTest:68 - @testXMLTools(resource): RootName.equalTo("XmlNops"): true
+2017-09-02 11:26:43 ERROR XMLTools:150 - IOException initFromString(): 
+java.net.MalformedURLException: SAXBuilder.build(String) expects the String to be a systemID, but in this instance it appears to be actual XML data.
+	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1277)
+	at ch.rno.workshops.xmltools.XMLTools.initFromString(XMLTools.java:144)
+	at ch.rno.workshops.xmltools.XMLTools.<init>(XMLTools.java:45)
+	at ch.rno.workshops.junit.XMLToolsTest.setUp(XMLToolsTest.java:32)
+	at junit.framework.TestCase.runBare(TestCase.java:139)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+	at junit.framework.TestSuite.run(TestSuite.java:247)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:51)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:237)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+Caused by: java.net.MalformedURLException: no protocol: <Document id="1" shipmentid="1" fileid="1">
+		<Folding>0</Folding>
+		<DocumentType>Kontoauszug jährlich</DocumentType>
+		<Recipient>
+			<line>Stephan Bühler</line>
+			<line>Weinberglistrasse 4</line>
+			<line>6004 Luzern</line>
+		</Recipient>
+		<Supplements>
+			<eSupplement>E123</eSupplement>
+		</Supplements>
+	</Document>
+	at java.net.URL.<init>(URL.java:586)
+	at java.net.URL.<init>(URL.java:483)
+	at java.net.URL.<init>(URL.java:432)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:619)
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:189)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:217)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:329)
+	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1256)
+	... 21 more
+2017-09-02 11:26:43 ERROR XMLTools:150 - IOException initFromString(): 
+java.net.MalformedURLException: SAXBuilder.build(String) expects the String to be a systemID, but in this instance it appears to be actual XML data.
+	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1277)
+	at ch.rno.workshops.xmltools.XMLTools.initFromString(XMLTools.java:144)
+	at ch.rno.workshops.xmltools.XMLTools.<init>(XMLTools.java:45)
+	at ch.rno.workshops.junit.XMLToolsTest.setUp(XMLToolsTest.java:32)
+	at junit.framework.TestCase.runBare(TestCase.java:139)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+	at junit.framework.TestSuite.run(TestSuite.java:247)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:51)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:237)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+Caused by: java.net.MalformedURLException: no protocol: <Document id="1" shipmentid="1" fileid="1">
+		<Folding>0</Folding>
+		<DocumentType>Kontoauszug jährlich</DocumentType>
+		<Recipient>
+			<line>Stephan Bühler</line>
+			<line>Weinberglistrasse 4</line>
+			<line>6004 Luzern</line>
+		</Recipient>
+		<Supplements>
+			<eSupplement>E123</eSupplement>
+		</Supplements>
+	</Document>
+	at java.net.URL.<init>(URL.java:586)
+	at java.net.URL.<init>(URL.java:483)
+	at java.net.URL.<init>(URL.java:432)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:619)
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:189)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:217)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:329)
+	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1256)
+	... 21 more
+2017-09-02 11:26:43 DEBUG XMLTools:131 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:26:43 DEBUG XMLTools:159 - Document created from File with root-node: XmlNops
+2017-09-02 11:26:43 INFO  XMLToolsTest:67 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 11:26:43 INFO  XMLToolsTest:70 - @testXMLTools(resource): RootName.equalTo("XmlNops"): true
+2017-09-02 11:28:29 ERROR XMLTools:150 - IOException initFromString(): 
+java.net.MalformedURLException: SAXBuilder.build(String) expects the String to be a systemID, but in this instance it appears to be actual XML data.
+	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1277)
+	at ch.rno.workshops.xmltools.XMLTools.initFromString(XMLTools.java:144)
+	at ch.rno.workshops.xmltools.XMLTools.<init>(XMLTools.java:45)
+	at ch.rno.workshops.junit.XMLToolsTest.setUp(XMLToolsTest.java:32)
+	at junit.framework.TestCase.runBare(TestCase.java:139)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+	at junit.framework.TestSuite.run(TestSuite.java:247)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:51)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:237)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+Caused by: java.net.MalformedURLException: no protocol: <?xml version='1.0' encoding='UTF-8'?>
+<Document id="1" shipmentid="1" fileid="1">
+		<Folding>0</Folding>
+		<DocumentType>Kontoauszug jährlich</DocumentType>
+		<Recipient>
+			<line>Stephan Bühler</line>
+			<line>Weinberglistrasse 4</line>
+			<line>6004 Luzern</line>
+		</Recipient>
+		<Supplements>
+			<eSupplement>E123</eSupplement>
+		</Supplements>
+	</Document>
+	at java.net.URL.<init>(URL.java:586)
+	at java.net.URL.<init>(URL.java:483)
+	at java.net.URL.<init>(URL.java:432)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:619)
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:189)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:217)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:329)
+	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1256)
+	... 21 more
+2017-09-02 11:28:29 ERROR XMLTools:150 - IOException initFromString(): 
+java.net.MalformedURLException: SAXBuilder.build(String) expects the String to be a systemID, but in this instance it appears to be actual XML data.
+	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1277)
+	at ch.rno.workshops.xmltools.XMLTools.initFromString(XMLTools.java:144)
+	at ch.rno.workshops.xmltools.XMLTools.<init>(XMLTools.java:45)
+	at ch.rno.workshops.junit.XMLToolsTest.setUp(XMLToolsTest.java:32)
+	at junit.framework.TestCase.runBare(TestCase.java:139)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+	at junit.framework.TestSuite.run(TestSuite.java:247)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:51)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:237)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+Caused by: java.net.MalformedURLException: no protocol: <?xml version='1.0' encoding='UTF-8'?>
+<Document id="1" shipmentid="1" fileid="1">
+		<Folding>0</Folding>
+		<DocumentType>Kontoauszug jährlich</DocumentType>
+		<Recipient>
+			<line>Stephan Bühler</line>
+			<line>Weinberglistrasse 4</line>
+			<line>6004 Luzern</line>
+		</Recipient>
+		<Supplements>
+			<eSupplement>E123</eSupplement>
+		</Supplements>
+	</Document>
+	at java.net.URL.<init>(URL.java:586)
+	at java.net.URL.<init>(URL.java:483)
+	at java.net.URL.<init>(URL.java:432)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:619)
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:189)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:217)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:329)
+	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1256)
+	... 21 more
+2017-09-02 11:28:29 DEBUG XMLTools:131 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:28:29 DEBUG XMLTools:159 - Document created from File with root-node: XmlNops
+2017-09-02 11:28:29 INFO  XMLToolsTest:67 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 11:28:29 INFO  XMLToolsTest:70 - @testXMLTools(resource): RootName.equalTo("XmlNops"): true
+2017-09-02 11:29:06 ERROR XMLTools:150 - IOException initFromString(): 
+java.net.MalformedURLException: SAXBuilder.build(String) expects the String to be a systemID, but in this instance it appears to be actual XML data.
+	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1277)
+	at ch.rno.workshops.xmltools.XMLTools.initFromString(XMLTools.java:144)
+	at ch.rno.workshops.xmltools.XMLTools.<init>(XMLTools.java:45)
+	at ch.rno.workshops.junit.XMLToolsTest.setUp(XMLToolsTest.java:32)
+	at junit.framework.TestCase.runBare(TestCase.java:139)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+	at junit.framework.TestSuite.run(TestSuite.java:247)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:51)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:237)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+Caused by: java.net.MalformedURLException: no protocol: <?xml version="1.0" encoding="UTF-8"?>
+<Document id="1" shipmentid="1" fileid="1">
+		<Folding>0</Folding>
+		<DocumentType>Kontoauszug jährlich</DocumentType>
+		<Recipient>
+			<line>Stephan Bühler</line>
+			<line>Weinberglistrasse 4</line>
+			<line>6004 Luzern</line>
+		</Recipient>
+		<Supplements>
+			<eSupplement>E123</eSupplement>
+		</Supplements>
+	</Document>
+	at java.net.URL.<init>(URL.java:586)
+	at java.net.URL.<init>(URL.java:483)
+	at java.net.URL.<init>(URL.java:432)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:619)
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:189)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:217)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:329)
+	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1256)
+	... 21 more
+2017-09-02 11:29:06 ERROR XMLTools:150 - IOException initFromString(): 
+java.net.MalformedURLException: SAXBuilder.build(String) expects the String to be a systemID, but in this instance it appears to be actual XML data.
+	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1277)
+	at ch.rno.workshops.xmltools.XMLTools.initFromString(XMLTools.java:144)
+	at ch.rno.workshops.xmltools.XMLTools.<init>(XMLTools.java:45)
+	at ch.rno.workshops.junit.XMLToolsTest.setUp(XMLToolsTest.java:32)
+	at junit.framework.TestCase.runBare(TestCase.java:139)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+	at junit.framework.TestSuite.run(TestSuite.java:247)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:51)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:237)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+Caused by: java.net.MalformedURLException: no protocol: <?xml version="1.0" encoding="UTF-8"?>
+<Document id="1" shipmentid="1" fileid="1">
+		<Folding>0</Folding>
+		<DocumentType>Kontoauszug jährlich</DocumentType>
+		<Recipient>
+			<line>Stephan Bühler</line>
+			<line>Weinberglistrasse 4</line>
+			<line>6004 Luzern</line>
+		</Recipient>
+		<Supplements>
+			<eSupplement>E123</eSupplement>
+		</Supplements>
+	</Document>
+	at java.net.URL.<init>(URL.java:586)
+	at java.net.URL.<init>(URL.java:483)
+	at java.net.URL.<init>(URL.java:432)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:619)
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:189)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:217)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:329)
+	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1256)
+	... 21 more
+2017-09-02 11:29:06 DEBUG XMLTools:131 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:29:06 DEBUG XMLTools:159 - Document created from File with root-node: XmlNops
+2017-09-02 11:29:06 INFO  XMLToolsTest:67 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 11:29:06 INFO  XMLToolsTest:70 - @testXMLTools(resource): RootName.equalTo("XmlNops"): true
+2017-09-02 11:34:38 DEBUG XMLTools:145 - Document created from String with root-node: Document
+2017-09-02 11:34:38 DEBUG XMLTools:145 - Document created from String with root-node: Document
+2017-09-02 11:34:38 DEBUG XMLTools:128 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:34:38 DEBUG XMLTools:158 - Document created from File with root-node: XmlNops
+2017-09-02 11:34:38 INFO  XMLToolsTest:67 - @testXMLTools(resource): hasProperty("root"): XmlNops
+2017-09-02 11:34:38 INFO  XMLToolsTest:70 - @testXMLTools(resource): RootName.equalTo("XmlNops"): true
+2017-09-02 11:53:57 DEBUG XMLTools:128 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:53:57 DEBUG XMLTools:158 - Document created from File with root-node: XmlNops
+2017-09-02 11:53:57 DEBUG XMLTools:134 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:53:57 DEBUG XMLTools:158 - Document created from File with root-node: XmlNops
+2017-09-02 11:53:57 DEBUG XMLTools:145 - Document created from String with root-node: Document
+2017-09-02 11:56:23 DEBUG XMLTools:128 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:56:23 DEBUG XMLTools:158 - Document created from File with root-node: XmlNops
+2017-09-02 11:56:23 DEBUG XMLTools:134 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:56:23 DEBUG XMLTools:158 - Document created from File with root-node: XmlNops
+2017-09-02 11:56:23 DEBUG XMLTools:145 - Document created from String with root-node: Document
+2017-09-02 11:58:01 DEBUG XMLTools:129 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:58:01 DEBUG XMLTools:159 - Document created from File with root-node: XmlNops
+2017-09-02 11:58:01 DEBUG XMLTools:135 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:58:01 DEBUG XMLTools:159 - Document created from File with root-node: XmlNops
+2017-09-02 11:58:01 DEBUG XMLTools:146 - Document created from String with root-node: Document
+2017-09-02 11:58:01 DEBUG XMLTools:52 - Document created from Document with root-node: root
+2017-09-02 11:59:22 DEBUG XMLTools:129 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:59:23 DEBUG XMLTools:159 - Document created from document-root-vorgabe.xml with root-node: XmlNops
+2017-09-02 11:59:23 DEBUG XMLTools:135 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:59:23 DEBUG XMLTools:159 - Document created from document-root-vorgabe.xml with root-node: XmlNops
+2017-09-02 11:59:23 DEBUG XMLTools:146 - Document created from String with root-node: Document
+2017-09-02 11:59:23 DEBUG XMLTools:52 - Document created from Document with root-node: root
+2017-09-02 11:59:41 DEBUG XMLTools:129 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:59:41 DEBUG XMLTools:159 - Document created from D:\dev\XmlNop\target\classes\testdata\document-root-vorgabe.xml with root-node: XmlNops
+2017-09-02 11:59:41 DEBUG XMLTools:135 - File loaded: document-root-vorgabe.xml
+2017-09-02 11:59:41 DEBUG XMLTools:159 - Document created from D:\dev\XmlNop\src\main\resources\testdata\document-root-vorgabe.xml with root-node: XmlNops
+2017-09-02 11:59:41 DEBUG XMLTools:146 - Document created from String with root-node: Document
+2017-09-02 11:59:41 DEBUG XMLTools:52 - Document created from Document with root-node: root
+2017-09-02 12:00:13 DEBUG XMLTools:129 - File loaded: document-root-vorgabe.xml
+2017-09-02 12:00:13 DEBUG XMLTools:159 - Document created from D:\dev\XmlNop\target\classes\testdata\document-root-vorgabe.xml with root-node: XmlNops
+2017-09-02 12:00:13 DEBUG XMLTools:135 - File loaded: document-root-vorgabe.xml
+2017-09-02 12:00:13 DEBUG XMLTools:159 - Document created from D:\dev\XmlNop\src\main\resources\testdata\document-root-vorgabe.xml with root-node: XmlNops
+2017-09-02 12:00:13 DEBUG XMLTools:146 - Document created from <?xml version="1.0" encoding="UTF-8"?>
+<Document id="1" shipmentid="1" fileid="1">
+		<Folding>0</Folding>
+		<DocumentType>Kontoauszug jährlich</DocumentType>
+		<Recipient>
+			<line>Stephan Bühler</line>
+			<line>Weinberglistrasse 4</line>
+			<line>6004 Luzern</line>
+		</Recipient>
+		<Supplements>
+			<eSupplement>E123</eSupplement>
+		</Supplements>
+	</Document> with root-node: Document
+2017-09-02 12:00:13 DEBUG XMLTools:52 - Document created from Document with root-node: root
+2017-09-02 12:01:05 DEBUG XMLTools:129 - File loaded from resource: document-root-vorgabe.xml
+2017-09-02 12:01:06 DEBUG XMLTools:159 - Document created from D:\dev\XmlNop\target\classes\testdata\document-root-vorgabe.xml with root-node: XmlNops
+2017-09-02 12:01:06 DEBUG XMLTools:135 - File loaded from filesystem: document-root-vorgabe.xml
+2017-09-02 12:01:06 DEBUG XMLTools:159 - Document created from D:\dev\XmlNop\src\main\resources\testdata\document-root-vorgabe.xml with root-node: XmlNops
+2017-09-02 12:01:06 DEBUG XMLTools:146 - Document created from <?xml version="1.0" encoding="UTF-8"?>
+<Document id="1" shipmentid="1" fileid="1">
+		<Folding>0</Folding>
+		<DocumentType>Kontoauszug jährlich</DocumentType>
+		<Recipient>
+			<line>Stephan Bühler</line>
+			<line>Weinberglistrasse 4</line>
+			<line>6004 Luzern</line>
+		</Recipient>
+		<Supplements>
+			<eSupplement>E123</eSupplement>
+		</Supplements>
+	</Document> with root-node: Document
+2017-09-02 12:01:06 DEBUG XMLTools:52 - Document created from Document with root-node: root
+2017-09-02 12:05:01 INFO  XMLToolsTest:46 - @testXmlToolsFromResource: Root-Node.name equals 'XmlNops'
+2017-09-02 12:06:36 INFO  XMLToolsTest:46 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:09:45 INFO  XMLToolsTest:46 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:09:45 INFO  XMLToolsTest:50 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:11:50 INFO  XMLToolsTest:46 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:11:50 INFO  XMLToolsTest:51 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:11:50 INFO  XMLToolsTest:56 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:12:09 INFO  XMLToolsTest:46 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:12:09 INFO  XMLToolsTest:51 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:12:09 INFO  XMLToolsTest:56 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:12:20 INFO  XMLToolsTest:46 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:12:43 INFO  XMLToolsTest:46 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:12:44 INFO  XMLToolsTest:51 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:12:44 INFO  XMLToolsTest:56 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:13:52 INFO  XMLToolsTest:46 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:13:52 INFO  XMLToolsTest:51 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:13:52 INFO  XMLToolsTest:56 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:13:52 INFO  XMLToolsTest:61 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 12:13:52 INFO  XMLToolsTest:66 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 12:16:17 INFO  XMLToolsTest:46 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:16:17 INFO  XMLToolsTest:51 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:16:17 INFO  XMLToolsTest:56 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:16:17 INFO  XMLToolsTest:61 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 12:16:17 INFO  XMLToolsTest:66 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 12:23:13 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 12:23:13 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:23:13 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:23:13 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:23:13 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 12:23:13 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 12:25:45 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 12:25:45 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:25:45 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:25:45 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:25:45 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 12:25:45 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 12:27:28 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 12:27:28 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:27:28 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:27:28 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:27:28 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 12:27:28 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 12:27:44 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 12:27:44 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:27:44 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:27:44 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:27:44 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 12:27:44 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 12:27:58 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 12:27:58 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:27:58 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:27:58 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:27:58 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 12:27:58 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 12:28:23 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 12:28:23 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:28:23 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:28:23 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:28:23 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 12:28:23 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 12:28:50 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 12:28:50 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:28:50 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:28:50 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:28:50 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 12:28:50 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 12:29:03 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 12:29:03 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:29:03 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:29:03 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:29:03 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 12:29:03 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 12:29:25 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 12:29:25 INFO  XMLToolsTest:75 - @testXmlToolsFromFile: staff.name equals 'staff' -> true
+2017-09-02 12:29:25 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:29:25 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:29:25 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:29:25 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 12:29:25 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 12:32:28 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 12:32:28 INFO  XMLToolsTest:76 - @testXmlToolsFromFile: staff.name equals 'staff' -> true
+2017-09-02 12:32:28 INFO  XMLToolsTest:80 - @testXmlToolsFromFile: firstname.name equals 'firstname' -> true
+2017-09-02 12:32:28 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:32:28 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:32:28 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:32:28 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 12:32:28 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 12:33:35 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 12:33:35 INFO  XMLToolsTest:76 - @testXmlToolsFromFile: staff.name equals 'staff' -> true
+2017-09-02 12:33:35 INFO  XMLToolsTest:80 - @testXmlToolsFromFile: firstname.name equals 'firstname' -> true
+2017-09-02 12:33:35 INFO  XMLToolsTest:83 - @testXmlToolsFromFile: firstname.value equals 'yong' -> true
+2017-09-02 12:33:35 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:33:35 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:33:35 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:33:35 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 12:33:35 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 12:34:00 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 12:34:00 INFO  XMLToolsTest:76 - @testXmlToolsFromFile: staff.name equals 'staff' -> true
+2017-09-02 12:34:00 INFO  XMLToolsTest:80 - @testXmlToolsFromFile: firstname.name equals 'firstname' -> true
+2017-09-02 12:34:00 INFO  XMLToolsTest:83 - @testXmlToolsFromFile: firstname.value equals 'yong' -> true
+2017-09-02 12:34:00 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 12:34:00 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 12:34:00 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 12:34:00 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 12:34:00 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 14:31:35 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 14:31:35 INFO  XMLToolsTest:76 - @testXmlToolsFromFile: staff.name equals 'staff' -> true
+2017-09-02 14:31:35 INFO  XMLToolsTest:80 - @testXmlToolsFromFile: firstname.name equals 'firstname' -> true
+2017-09-02 14:31:35 INFO  XMLToolsTest:83 - @testXmlToolsFromFile: firstname.value equals 'yong' -> true
+2017-09-02 14:31:35 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 14:31:35 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 14:31:35 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 14:31:35 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 14:31:35 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 14:31:35 INFO  XMLToolsTest:91 - @testXmlToolsFromString: root.name equals 'Document' -> true
+2017-09-02 14:35:58 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 14:35:59 INFO  XMLToolsTest:76 - @testXmlToolsFromFile: staff.name equals 'staff' -> true
+2017-09-02 14:35:59 INFO  XMLToolsTest:80 - @testXmlToolsFromFile: firstname.name equals 'firstname' -> true
+2017-09-02 14:35:59 INFO  XMLToolsTest:83 - @testXmlToolsFromFile: firstname.value equals 'yong' -> true
+2017-09-02 14:35:59 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 14:35:59 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 14:35:59 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 14:35:59 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 14:35:59 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 14:35:59 INFO  XMLToolsTest:99 - @testxmlToolsFromDocument: root.name equals 'root' -> true
+2017-09-02 14:35:59 INFO  XMLToolsTest:91 - @testXmlToolsFromString: root.name equals 'Document' -> true
+2017-09-02 14:36:40 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 14:36:40 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 14:36:40 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 14:36:40 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 14:36:40 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 14:36:40 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 14:36:40 INFO  XMLToolsTest:89 - @testxmlToolsFromDocument: root.name equals 'root' -> true
+2017-09-02 14:36:40 INFO  XMLToolsTest:81 - @testXmlToolsFromString: root.name equals 'Document' -> true
+2017-09-02 14:38:15 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 14:38:15 INFO  XMLToolsTest:101 - @testUpdateElement(origin): equalsTo('rno'): true
+2017-09-02 14:38:15 INFO  XMLToolsTest:102 - @testUpdateElement(origin): <Folding>rno</Folding>
+2017-09-02 14:38:15 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 14:38:15 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 14:38:15 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 14:38:15 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 14:38:15 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 14:38:15 INFO  XMLToolsTest:89 - @testxmlToolsFromDocument: root.name equals 'root' -> true
+2017-09-02 14:38:15 INFO  XMLToolsTest:81 - @testXmlToolsFromString: root.name equals 'Document' -> true
+2017-09-02 14:39:23 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 14:39:23 INFO  XMLToolsTest:101 - @testUpdateElement(origin): equalsTo('rno'): true -> <Folding>rno</Folding>
+2017-09-02 14:39:23 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 14:39:23 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 14:39:23 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 14:39:23 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 14:39:23 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 14:39:23 INFO  XMLToolsTest:89 - @testxmlToolsFromDocument: root.name equals 'root' -> true
+2017-09-02 14:39:23 INFO  XMLToolsTest:81 - @testXmlToolsFromString: root.name equals 'Document' -> true
+2017-09-02 14:42:50 INFO  XMLToolsTest:72 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 14:42:50 INFO  XMLToolsTest:98 - @testGetElement(folding): equalTo('Folding'): true -> <Folding>0</Folding>
+2017-09-02 14:42:50 INFO  XMLToolsTest:108 - @testUpdateElement(origin): equalsTo('rno'): true -> <Folding>rno</Folding>
+2017-09-02 14:42:50 INFO  XMLToolsTest:44 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 14:42:50 INFO  XMLToolsTest:49 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 14:42:50 INFO  XMLToolsTest:54 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 14:42:50 INFO  XMLToolsTest:59 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 14:42:50 INFO  XMLToolsTest:64 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 14:42:50 INFO  XMLToolsTest:89 - @testxmlToolsFromDocument: root.name equals 'root' -> true
+2017-09-02 14:42:50 INFO  XMLToolsTest:81 - @testXmlToolsFromString: root.name equals 'Document' -> true
+2017-09-02 14:50:24 INFO  XMLToolsTest:73 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 14:50:24 INFO  XMLToolsTest:99 - @testGetElement(folding): equalTo('Folding'): true -> <Folding>0</Folding>
+2017-09-02 14:50:24 INFO  XMLToolsTest:109 - @testUpdateElement(origin): equalsTo('rno'): true -> <Folding>rno</Folding>
+2017-09-02 14:50:24 INFO  XMLToolsTest:45 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 14:50:24 INFO  XMLToolsTest:50 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 14:50:24 INFO  XMLToolsTest:55 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 14:50:24 INFO  XMLToolsTest:60 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 14:50:24 INFO  XMLToolsTest:65 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 14:50:24 INFO  XMLToolsTest:90 - @testxmlToolsFromDocument: root.name equals 'root' -> true
+2017-09-02 14:50:24 INFO  XMLToolsTest:82 - @testXmlToolsFromString: root.name equals 'Document' -> true
+2017-09-02 14:50:24 INFO  XMLToolsTest:119 - @testUpdateAttribute(@id): id.value equalsTo('999'): true -> <Document id="999" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
+2017-09-02 15:15:23 INFO  XMLToolsTest:73 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 15:15:23 INFO  XMLToolsTest:99 - @testGetElement(folding): equalTo('Folding'): true -> <Folding>0</Folding>
+2017-09-02 15:15:23 INFO  XMLToolsTest:109 - @testUpdateElement(origin): equalsTo('rno'): true -> <Folding>rno</Folding>
+2017-09-02 15:15:23 INFO  XMLToolsTest:45 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 15:15:23 INFO  XMLToolsTest:50 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 15:15:23 INFO  XMLToolsTest:55 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 15:15:23 INFO  XMLToolsTest:60 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 15:15:23 INFO  XMLToolsTest:65 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 15:15:23 INFO  XMLToolsTest:90 - @testxmlToolsFromDocument: root.name equals 'root' -> true
+2017-09-02 15:15:23 INFO  XMLToolsTest:82 - @testXmlToolsFromString: root.name equals 'Document' -> true
+2017-09-02 15:15:23 INFO  XMLToolsTest:119 - @testUpdateAttribute(@id): id.value equalsTo('999'): true -> <Document id="999" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
+2017-09-02 15:59:02 INFO  XMLToolsTest:73 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 15:59:03 INFO  XMLToolsTest:99 - @testGetElement(folding): equalTo('Folding'): true -> <Folding>0</Folding>
+2017-09-02 15:59:03 INFO  XMLToolsTest:117 - @testUpdateElement(origin): equalsTo('rno'): true -> <Folding>rno</Folding>
+2017-09-02 15:59:03 INFO  XMLToolsTest:45 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 15:59:03 INFO  XMLToolsTest:50 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 15:59:03 INFO  XMLToolsTest:55 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 15:59:03 INFO  XMLToolsTest:60 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 15:59:03 INFO  XMLToolsTest:65 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 15:59:03 INFO  XMLToolsTest:90 - @testxmlToolsFromDocument: root.name equals 'root' -> true
+2017-09-02 15:59:03 INFO  XMLToolsTest:82 - @testXmlToolsFromString: root.name equals 'Document' -> true
+2017-09-02 15:59:03 INFO  XMLToolsTest:107 - @testGetAttribute(/Document/@id): Document/@id.name equalTo('id'): true -> <Document id="1" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
+2017-09-02 15:59:03 INFO  XMLToolsTest:127 - @testUpdateAttribute(@id): id.value equalsTo('999'): true -> <Document id="999" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
+2017-09-02 16:02:11 INFO  XMLToolsTest:73 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 16:02:11 INFO  XMLToolsTest:99 - @testGetElement(folding): equalTo('Folding'): true -> <Folding>0</Folding>
+2017-09-02 16:02:11 INFO  XMLToolsTest:117 - @testUpdateElement(origin): equalsTo('rno'): true -> <Folding>rno</Folding>
+2017-09-02 16:02:11 INFO  XMLToolsTest:45 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 16:02:11 INFO  XMLToolsTest:50 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 16:02:11 INFO  XMLToolsTest:55 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 16:02:11 INFO  XMLToolsTest:60 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 16:02:11 INFO  XMLToolsTest:65 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 16:02:11 INFO  XMLToolsTest:90 - @testxmlToolsFromDocument: root.name equals 'root' -> true
+2017-09-02 16:02:12 INFO  XMLToolsTest:82 - @testXmlToolsFromString: root.name equals 'Document' -> true
+2017-09-02 16:02:12 INFO  XMLToolsTest:107 - @testGetAttribute(/Document/@id): Document/@id.name equalTo('id'): true -> <Document id="1" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
+2017-09-02 16:02:12 INFO  XMLToolsTest:127 - @testUpdateAttribute(@id): id.value equalsTo('999'): true -> <Document id="999" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
+2017-09-02 16:06:33 INFO  XMLToolsTest:73 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 16:06:33 INFO  XMLToolsTest:99 - @testGetElement(folding): equalTo('Folding'): true -> <Folding>0</Folding>
+2017-09-02 16:06:34 INFO  XMLToolsTest:117 - @testUpdateElement(origin): equalsTo('rno'): true -> <Folding>rno</Folding>
+2017-09-02 16:06:34 INFO  XMLToolsTest:45 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 16:06:34 INFO  XMLToolsTest:50 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 16:06:34 INFO  XMLToolsTest:55 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 16:06:34 INFO  XMLToolsTest:60 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 16:06:34 INFO  XMLToolsTest:65 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 16:06:34 INFO  XMLToolsTest:137 - @testAppendElement(/XmlNops/rno): rno.name equalsTo('rno'): true -> <rno>value</rno>
+2017-09-02 16:06:34 INFO  XMLToolsTest:90 - @testxmlToolsFromDocument: root.name equals 'root' -> true
+2017-09-02 16:06:34 INFO  XMLToolsTest:82 - @testXmlToolsFromString: root.name equals 'Document' -> true
+2017-09-02 16:06:34 INFO  XMLToolsTest:107 - @testGetAttribute(/Document/@id): Document/@id.name equalTo('id'): true -> <Document id="1" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
+2017-09-02 16:06:34 INFO  XMLToolsTest:127 - @testUpdateAttribute(@id): id.value equalsTo('999'): true -> <Document id="999" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
+2017-09-02 16:07:50 INFO  XMLToolsTest:137 - @testAppendElement(/XmlNops/rno): rno.name equalsTo('rno'): true -> <rno>value</rno>
+2017-09-02 16:08:31 INFO  XMLToolsTest:137 - @testAppendElement(/XmlNops/rno): rno.name equalsTo('rno'): true -> <XmlNops>
+  <File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+  <rno>value</rno>
+</XmlNops>
+2017-09-02 16:12:27 INFO  XMLToolsTest:147 - @testAppendAttribute(/XmlNops/@rno): rno.name equalsTo('rno'): true -> <XmlNops rno="value">
+  <File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+</XmlNops>
+2017-09-02 16:12:52 INFO  XMLToolsTest:147 - @testAppendAttribute(/XmlNops/@rno): rno.name equalsTo('rno'): true 
+-> <XmlNops rno="value">
+  <File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+</XmlNops>
+2017-09-02 16:27:08 INFO  XMLToolsTest:156 - @testDeleteElement(/XmlNops/File/@id): XmlNops/File/@id.name equalsTo('id'): null 
+-> <XmlNops>
+  <File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+</XmlNops>
+2017-09-02 16:28:06 INFO  XMLToolsTest:157 - @testDeleteElement(/XmlNops/File/@id): XmlNops/File/@id.name equalsTo('id'): null 
+-> <XmlNops>
+  <File name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+</XmlNops>
+2017-09-02 16:30:36 INFO  XMLToolsTest:157 - @testDeleteElement(/XmlNops/File): XmlNops/File.name equalsTo('File'): null 
+-> <XmlNops>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+</XmlNops>
+2017-09-02 16:32:54 INFO  XMLToolsTest:73 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-02 16:32:55 INFO  XMLToolsTest:99 - @testGetElement(folding): equalTo('Folding'): true -> <Folding>0</Folding>
+2017-09-02 16:32:55 INFO  XMLToolsTest:117 - @testUpdateElement(origin): equalsTo('rno'): true -> <Folding>rno</Folding>
+2017-09-02 16:32:55 INFO  XMLToolsTest:45 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-02 16:32:55 INFO  XMLToolsTest:50 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-02 16:32:55 INFO  XMLToolsTest:55 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-02 16:32:55 INFO  XMLToolsTest:60 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-02 16:32:55 INFO  XMLToolsTest:65 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-02 16:32:55 INFO  XMLToolsTest:137 - @testAppendElement(/XmlNops/rno): rno.name equalsTo('rno'): true -> <XmlNops>
+  <File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+  <rno>value</rno>
+</XmlNops>
+2017-09-02 16:32:55 INFO  XMLToolsTest:157 - @testDeleteElement(/XmlNops/File): XmlNops/File.name equalsTo('File'): null 
+-> <XmlNops>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+</XmlNops>
+2017-09-02 16:32:55 INFO  XMLToolsTest:90 - @testxmlToolsFromDocument: root.name equals 'root' -> true
+2017-09-02 16:32:55 INFO  XMLToolsTest:147 - @testAppendAttribute(/XmlNops/@rno): rno.name equalsTo('rno'): true 
+-> <XmlNops rno="value">
+  <File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+</XmlNops>
+2017-09-02 16:32:55 INFO  XMLToolsTest:167 - @testDeleteAttribute(/XmlNops/File/@id): XmlNops/File/@id.name equalsTo('id'): null 
+-> <XmlNops>
+  <File name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+</XmlNops>
+2017-09-02 16:32:55 INFO  XMLToolsTest:82 - @testXmlToolsFromString: root.name equals 'Document' -> true
+2017-09-02 16:32:55 INFO  XMLToolsTest:107 - @testGetAttribute(/Document/@id): Document/@id.name equalTo('id'): true -> <Document id="1" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
+2017-09-02 16:32:55 INFO  XMLToolsTest:127 - @testUpdateAttribute(@id): id.value equalsTo('999'): true -> <Document id="999" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
+2017-09-09 13:28:35 INFO  XMLToolsTest:45 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-09 13:28:35 INFO  XMLToolsTest:50 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-09 13:28:35 INFO  XMLToolsTest:55 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-09 13:28:35 INFO  XMLToolsTest:60 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-09 13:28:35 INFO  XMLToolsTest:65 - @testXmlToolsFromResource: Page.name equals 'Page' -> true

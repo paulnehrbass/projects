@@ -1,0 +1,745 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xep-out-embed-images false?>
+<?xep-pdf-pdf-version 1.4?>
+<?xep-ooxml-version 12?>
+<?xep-pcl5-color false?>
+<?xep-pdf-linearize false?>
+<?xep-pdf-compress true?>
+<?xep-pdf-userprivileges?>
+<?xep-postscript-language-level 3?>
+<?xep-pdf-view-mode auto?>
+<?xep-postscript-view-mode auto?>
+<?xep-pdf-initial-zoom auto?>
+<?xep-postscript-initial-zoom auto?>
+<xep:document xmlns:xep="http://www.renderx.com/XEP/xep" producer="XEP 4.25.502" creator="Unknown" author="Unknown" title="Untitled">
+	
+	<xep:page width="595276" height="841890" page-number="1" page-id="1">
+		<?xep-postscript-page-device /DeferredMediaSelection true?>
+		<?xep-postscript-page-device /MediaType (Plain)?>
+		<?xep-postscript-page-device /ManualFeed false?>
+
+		<xep:pinpoint x="51024" y="501733" value="DOC_SQZ_20131203T103420.960-1680.5361301.7611118.12120100504T154400.585-1757.2591908.5251325.3391"/>
+		<xep:pinpoint x="51024" y="501733" value="DOC_IPE_PAGECONTENT BEGIN"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_BEGIN,G0000001"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,_FOD_LOOKUP,fodLookup,bc=7870,doc_id=67432281,belegart=,bst=9315,kd_nr_empf=30025904,parkey=30025904,kontonr=672034206,datum=2017-08-14"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,_FOD_REGISTER1,&lt;will be overwritten by DocBase>"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,_FOD_REGISTER2,&lt;will be overwritten by DocBase>"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,PS_OUT_TYP,K"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,channel,PRINT"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,USERBK_NR,7870"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,DOC_TYP_CD,nul"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,PS_DOC_LNR,67432281"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,COPY_CD,1"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,BKLAG_JN,0"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,SITZ_NR,9315"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,DOC_DT,2017-08-14"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,DS_KAT,0"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,DS_KAT_BELEG_ART,0"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,PS_DOC_TYP_NR,7501504"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,formular,7501504"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,ordner,7501504"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,BCLD,7870"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,SPRACHE_CD,1"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,ORIG_CHANNEL,SCREEN"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,OUT_QUEUE_NAME,PDF"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,OUT_QUEUE_TARGET,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,PRN_LANGUAGE,PDF"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,KD_NR_INH,30025904"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,KT_NR,672034206"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,KD_NR_DEST,30025904"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,BELEG_BETRAG,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,WD_DOC_REF_ID,&lt;will be overwritten by DocBase>"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,DS_KAT_KUNDE,0"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,DS_KAT_KONTO,0"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,KURZFORM,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,BETRAG_ARC,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,MAIL_ART_CD,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,DELIV_GRP_CD,DEFAULT"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,SHIPPINGORDERID,to_overwrite"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,BUNDLEID,to_overwrite"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,DOCSORTID,to_overwrite"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,RECIPIENT_SORT,7870-48768580714921-11"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,LEITWEG_LNR,0"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,LAND_LNR,1"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,PLZ,6332"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,STRASSE_SORT_KEY,Rehhalde"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,KD_LNR_DEST,48768580714921"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,KD_ADR_LNR,11"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,ENCLOSURES,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,BERFIRMA_NR,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,KD_PORTFOLIO_NO,0"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,ENCLOSURESV2,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE, PS_ADR_ZEILE_1,Herr"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,PS_ADR_ZEILE_2,Hermann Amrhein-Spillmann"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,PS_ADR_ZEILE_3,Rehhalde 9"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,PS_ADR_ZEILE_4,6332 Hagendorn"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,PS_ADR_ZEILE_5,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,PS_ADR_ZEILE_6,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,PS_ADR_ZEILE_7,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,RECIPIENTV2,48768580714921-11"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,RECIPIENT_SORTV2,PDF-7870-DEFAULT-0-1--6332-Rehhalde-9-48768580714921-11"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,ORDER_SHIP_ID,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,DUE_DATE_SHIP,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,DUE_DATE_ARCH,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,KD_NR_DEST_ARCH,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,KD_NR_INH_ARCH,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,KT_NR_ARCH,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,KT_LNR_ARCH,"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,HAUS_NR,9"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,ORT_BEZ,Hagendorn"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,KD_BEZ,Amrhein-Spillmann Hermann"/>
+		<xep:pinpoint x="51024" y="501733" value="NOP_startPageGroup,    POSYHEAD01    0113EBAA1   Herr                                    Hermann Amrhein-Spillmann               Rehhalde 9                              6332 Hagendorn                                                                                                                                                   "/>
+		<xep:pinpoint x="51024" y="501733" value="NOP_startPageGroup,    POSYHEAD02    0113EBA 1DEC  T -----------------------                                                                                                                                                                                        "/>
+		<xep:pinpoint x="51024" y="501733" value="NOP_startPageGroup,    POSYHEAD05    0113EBA 1                                                                                                      "/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,FINNOVA_USER_ID,TGDBRJO8"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,KD_LNR_USER,TGDBRJO8"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,FINNOVA_USER_ID_DESC,BRJO8"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,CUSTOMER_FIRSTNAME,Hermann"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,CUSTOMER_LASTNAME,Amrhein-Spillmann"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,RECIPIENT_LASTNAME,Amrhein-Spillmann"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,RECIPIENT_FIRSTNAME,Hermann"/>
+		<xep:pinpoint x="51024" y="501733" value="PAGE_GROUP_TLE,COPY_QUANTITY,1"/>
+		<xep:pinpoint x="51024" y="501733" value="NOP_beforePageGroup,Document|NOP-D| &lt;Document id='67432281' shipmentid='' fileid=''> &lt;Folding>1&lt;/Folding> &lt;DocumentType>7501003 Postenauszug hoch - online&lt;/DocumentType> &lt;Recipient> &lt;line>Herr&lt;/line>&lt;line>Hermann Amrhein-Spillmann&lt;/line>&lt;line>Rehhalde 9&lt;/line>&lt;line>6332 Hagendorn&lt;/line> &lt;/Recipient> &lt;Supplements> &lt;eSupplement>&lt;/eSupplement> &lt;/Supplements> &lt;/Document> |"/>
+		<xep:rgb-color red="0.0" green="0.0" blue="0.0"/>
+		<xep:polygon x-from="475665" y-from="456675">
+			<xep:point x-till="569764" y-till="456675"/>
+			<xep:point x-till="569764" y-till="457075"/>
+			<xep:point x-till="475665" y-till="457075"/>
+		</xep:polygon>
+		<xep:polygon x-from="409266" y-from="456675">
+			<xep:point x-till="475665" y-till="456675"/>
+			<xep:point x-till="475665" y-till="457075"/>
+			<xep:point x-till="409266" y-till="457075"/>
+		</xep:polygon>
+		<xep:polygon x-from="342867" y-from="456675">
+			<xep:point x-till="409266" y-till="456675"/>
+			<xep:point x-till="409266" y-till="457075"/>
+			<xep:point x-till="342867" y-till="457075"/>
+		</xep:polygon>
+		<xep:polygon x-from="292212" y-from="456675">
+			<xep:point x-till="342867" y-till="456675"/>
+			<xep:point x-till="342867" y-till="457075"/>
+			<xep:point x-till="292212" y-till="457075"/>
+		</xep:polygon>
+		<xep:polygon x-from="97399" y-from="456675">
+			<xep:point x-till="292212" y-till="456675"/>
+			<xep:point x-till="292212" y-till="457075"/>
+			<xep:point x-till="97399" y-till="457075"/>
+		</xep:polygon>
+		<xep:polygon x-from="51024" y-from="456675">
+			<xep:point x-till="97399" y-till="456675"/>
+			<xep:point x-till="97399" y-till="457075"/>
+			<xep:point x-till="51024" y-till="457075"/>
+		</xep:polygon>
+		<xep:polygon x-from="475665" y-from="442276">
+			<xep:point x-till="569764" y-till="442276"/>
+			<xep:point x-till="569764" y-till="442676"/>
+			<xep:point x-till="475665" y-till="442676"/>
+		</xep:polygon>
+		<xep:polygon x-from="409266" y-from="442276">
+			<xep:point x-till="475665" y-till="442276"/>
+			<xep:point x-till="475665" y-till="442676"/>
+			<xep:point x-till="409266" y-till="442676"/>
+		</xep:polygon>
+		<xep:polygon x-from="342867" y-from="442276">
+			<xep:point x-till="409266" y-till="442276"/>
+			<xep:point x-till="409266" y-till="442676"/>
+			<xep:point x-till="342867" y-till="442676"/>
+		</xep:polygon>
+		<xep:polygon x-from="292212" y-from="442276">
+			<xep:point x-till="342867" y-till="442276"/>
+			<xep:point x-till="342867" y-till="442676"/>
+			<xep:point x-till="292212" y-till="442676"/>
+		</xep:polygon>
+		<xep:polygon x-from="97399" y-from="442276">
+			<xep:point x-till="292212" y-till="442276"/>
+			<xep:point x-till="292212" y-till="442676"/>
+			<xep:point x-till="97399" y-till="442676"/>
+		</xep:polygon>
+		<xep:polygon x-from="51024" y-from="442276">
+			<xep:point x-till="97399" y-till="442276"/>
+			<xep:point x-till="97399" y-till="442676"/>
+			<xep:point x-till="51024" y-till="442676"/>
+		</xep:polygon>
+		<xep:polygon x-from="475665" y-from="419878">
+			<xep:point x-till="569764" y-till="419878"/>
+			<xep:point x-till="569764" y-till="420278"/>
+			<xep:point x-till="475665" y-till="420278"/>
+		</xep:polygon>
+		<xep:polygon x-from="409266" y-from="419878">
+			<xep:point x-till="475665" y-till="419878"/>
+			<xep:point x-till="475665" y-till="420278"/>
+			<xep:point x-till="409266" y-till="420278"/>
+		</xep:polygon>
+		<xep:polygon x-from="342867" y-from="419878">
+			<xep:point x-till="409266" y-till="419878"/>
+			<xep:point x-till="409266" y-till="420278"/>
+			<xep:point x-till="342867" y-till="420278"/>
+		</xep:polygon>
+		<xep:polygon x-from="292212" y-from="419878">
+			<xep:point x-till="342867" y-till="419878"/>
+			<xep:point x-till="342867" y-till="420278"/>
+			<xep:point x-till="292212" y-till="420278"/>
+		</xep:polygon>
+		<xep:polygon x-from="97399" y-from="419878">
+			<xep:point x-till="292212" y-till="419878"/>
+			<xep:point x-till="292212" y-till="420278"/>
+			<xep:point x-till="97399" y-till="420278"/>
+		</xep:polygon>
+		<xep:polygon x-from="51024" y-from="419878">
+			<xep:point x-till="97399" y-till="419878"/>
+			<xep:point x-till="97399" y-till="420278"/>
+			<xep:point x-till="51024" y-till="420278"/>
+		</xep:polygon>
+		<xep:polygon x-from="475665" y-from="405479">
+			<xep:point x-till="569764" y-till="405479"/>
+			<xep:point x-till="569764" y-till="405879"/>
+			<xep:point x-till="475665" y-till="405879"/>
+		</xep:polygon>
+		<xep:polygon x-from="409266" y-from="405479">
+			<xep:point x-till="475665" y-till="405479"/>
+			<xep:point x-till="475665" y-till="405879"/>
+			<xep:point x-till="409266" y-till="405879"/>
+		</xep:polygon>
+		<xep:polygon x-from="342867" y-from="405479">
+			<xep:point x-till="409266" y-till="405479"/>
+			<xep:point x-till="409266" y-till="405879"/>
+			<xep:point x-till="342867" y-till="405879"/>
+		</xep:polygon>
+		<xep:polygon x-from="292212" y-from="405479">
+			<xep:point x-till="342867" y-till="405479"/>
+			<xep:point x-till="342867" y-till="405879"/>
+			<xep:point x-till="292212" y-till="405879"/>
+		</xep:polygon>
+		<xep:polygon x-from="97399" y-from="405479">
+			<xep:point x-till="292212" y-till="405479"/>
+			<xep:point x-till="292212" y-till="405879"/>
+			<xep:point x-till="97399" y-till="405879"/>
+		</xep:polygon>
+		<xep:polygon x-from="51024" y-from="405479">
+			<xep:point x-till="97399" y-till="405479"/>
+			<xep:point x-till="97399" y-till="405879"/>
+			<xep:point x-till="51024" y-till="405879"/>
+		</xep:polygon>
+		<xep:polygon x-from="475665" y-from="383081">
+			<xep:point x-till="569764" y-till="383081"/>
+			<xep:point x-till="569764" y-till="383481"/>
+			<xep:point x-till="475665" y-till="383481"/>
+		</xep:polygon>
+		<xep:polygon x-from="409266" y-from="383081">
+			<xep:point x-till="475665" y-till="383081"/>
+			<xep:point x-till="475665" y-till="383481"/>
+			<xep:point x-till="409266" y-till="383481"/>
+		</xep:polygon>
+		<xep:polygon x-from="342867" y-from="383081">
+			<xep:point x-till="409266" y-till="383081"/>
+			<xep:point x-till="409266" y-till="383481"/>
+			<xep:point x-till="342867" y-till="383481"/>
+		</xep:polygon>
+		<xep:polygon x-from="292212" y-from="383081">
+			<xep:point x-till="342867" y-till="383081"/>
+			<xep:point x-till="342867" y-till="383481"/>
+			<xep:point x-till="292212" y-till="383481"/>
+		</xep:polygon>
+		<xep:polygon x-from="97399" y-from="383081">
+			<xep:point x-till="292212" y-till="383081"/>
+			<xep:point x-till="292212" y-till="383481"/>
+			<xep:point x-till="97399" y-till="383481"/>
+		</xep:polygon>
+		<xep:polygon x-from="51024" y-from="383081">
+			<xep:point x-till="97399" y-till="383081"/>
+			<xep:point x-till="97399" y-till="383481"/>
+			<xep:point x-till="51024" y-till="383481"/>
+		</xep:polygon>
+		<xep:polygon x-from="475665" y-from="360683">
+			<xep:point x-till="569764" y-till="360683"/>
+			<xep:point x-till="569764" y-till="361083"/>
+			<xep:point x-till="475665" y-till="361083"/>
+		</xep:polygon>
+		<xep:polygon x-from="409266" y-from="360683">
+			<xep:point x-till="475665" y-till="360683"/>
+			<xep:point x-till="475665" y-till="361083"/>
+			<xep:point x-till="409266" y-till="361083"/>
+		</xep:polygon>
+		<xep:polygon x-from="342867" y-from="360683">
+			<xep:point x-till="409266" y-till="360683"/>
+			<xep:point x-till="409266" y-till="361083"/>
+			<xep:point x-till="342867" y-till="361083"/>
+		</xep:polygon>
+		<xep:polygon x-from="97399" y-from="360683">
+			<xep:point x-till="342867" y-till="360683"/>
+			<xep:point x-till="342867" y-till="361083"/>
+			<xep:point x-till="97399" y-till="361083"/>
+		</xep:polygon>
+		<xep:polygon x-from="51024" y-from="360683">
+			<xep:point x-till="97399" y-till="360683"/>
+			<xep:point x-till="97399" y-till="361083"/>
+			<xep:point x-till="51024" y-till="361083"/>
+		</xep:polygon>
+		<xep:word-spacing value="0"/>
+		<xep:letter-spacing value="0"/>
+		<xep:font-stretch value="1.0"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="12000"/>
+		<xep:text value="CHF" x="545104" y="490559" width="24660"/>
+		<xep:text value="Postenauszug" x="51024" y="491715" width="81348"/>
+		<xep:text value="25.07.2017 - 11.08.2017" x="139044" y="491715" width="130764"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="9500"/>
+		<xep:text value="Saldo" x="543895" y="468859" width="25869"/>
+		<xep:text value="Gutschrift" x="430274" y="468859" width="45391"/>
+		<xep:text value="Belastung" x="363343" y="468859" width="45923"/>
+		<xep:text value="Valuta" x="296464" y="468859" width="28510"/>
+		<xep:text value="Text" x="97399" y="468859" width="19532"/>
+		<xep:text value="Datum" x="51024" y="468859" width="29555"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="9500"/>
+		<xep:text value="28'828.22" x="528334" y="447291" width="41430"/>
+		<xep:text value="Saldovortrag" x="97399" y="447291" width="53856"/>
+		<xep:text value="28'828.12" x="528334" y="432892" width="41430"/>
+		<xep:text value="0.10" x="390779" y="432892" width="18487"/>
+		<xep:text value="02.08.17" x="296464" y="432892" width="36974"/>
+		<xep:text value="TWINT-Buchung A, A, +41795769330" x="97399" y="432892" width="160266"/>
+		<xep:text value="0200000000025730" x="97399" y="422893" width="84512"/>
+		<xep:text value="02.08.17" x="51024" y="432892" width="36974"/>
+		<xep:text value="28'822.12" x="528334" y="410494" width="41430"/>
+		<xep:text value="6.00" x="390779" y="410494" width="18487"/>
+		<xep:text value="04.08.17" x="296464" y="410494" width="36974"/>
+		<xep:text value="ZugerKB Konto-Set" x="97399" y="410494" width="82375"/>
+		<xep:text value="04.08.17" x="51024" y="410494" width="36974"/>
+		<xep:text value="28'820.97" x="528334" y="396095" width="41430"/>
+		<xep:text value="1.15" x="390779" y="396095" width="18487"/>
+		<xep:text value="08.08.17" x="296464" y="396095" width="36974"/>
+		<xep:word-spacing value="-599"/>
+		<xep:letter-spacing value="-86"/>
+		<xep:text value="TWINT-Buchung muster, hans, +41796237327" x="97399" y="396095" width="191983"/>
+		<xep:word-spacing value="0"/>
+		<xep:letter-spacing value="0"/>
+		<xep:text value="0200000000026710" x="97399" y="386096" width="84512"/>
+		<xep:text value="08.08.17" x="51024" y="396095" width="36974"/>
+		<xep:text value="28'823.22" x="528334" y="373697" width="41430"/>
+		<xep:text value="2.25" x="457178" y="373697" width="18487"/>
+		<xep:text value="08.08.17" x="296464" y="373697" width="36974"/>
+		<xep:text value="TWINT-Buchung +41796237327" x="97399" y="373697" width="137028"/>
+		<xep:text value="0200000000026713" x="97399" y="363698" width="84512"/>
+		<xep:text value="08.08.17" x="51024" y="373697" width="36974"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="9500"/>
+		<xep:text value="28'823.22" x="527888" y="351294" width="41876"/>
+		<xep:text value="2.25" x="457178" y="351294" width="18487"/>
+		<xep:text value="7.25" x="390779" y="351294" width="18487"/>
+		<xep:text value="Saldo per 11.08.2017" x="97399" y="351294" width="93471"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="9500"/>
+		<xep:text value="Wir bitten Sie, diesen Auszug zu prüfen und uns Unstimmigkeiten innerhalb 4 Wochen zu melden." x="51024" y="323127" width="411847"/>
+		<xep:text value="Freundliche Grüsse" x="51024" y="294781" width="82888"/>
+		<xep:text value="Zuger Kantonalbank" x="51024" y="280782" width="85548"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="8000"/>
+		<xep:text value="Gültig ohne Unterschrift" x="51024" y="252784" width="84032"/>
+		<xep:pinpoint x="51024" y="247792" value="DOC_SQZ_20131203T103420.960-1680.5361301.7611118.12120100504T154400.585-1757.2591908.5251325.3391"/>
+		<xep:pinpoint x="51024" y="247792" value="DOC_IPE_PAGECONTENT END"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="1"/>
+		<xep:rgb-color red="1.0" green="1.0" blue="1.0"/>
+		<xep:text value="3478676865245-0000001" x="0" y="841889" width="11"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="_FOD_LOOKUP,fodLookup,bc=7870,doc_id=67432281,belegart=,bst=9315,kd_nr_empf=30025904,parkey=30025904,kontonr=672034206,datum=2017-08-14" x="6" y="841889" width="71"/>
+		<xep:text value="34545323456" x="77" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="_FOD_REGISTER1,&lt;willÿbeÿoverwrittenÿbyÿDocBase>" x="6" y="841889" width="26"/>
+		<xep:text value="34545323456" x="32" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="_FOD_REGISTER2,&lt;willÿbeÿoverwrittenÿbyÿDocBase>" x="6" y="841889" width="26"/>
+		<xep:text value="34545323456" x="32" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="PS_OUT_TYP,K" x="6" y="841889" width="7"/>
+		<xep:text value="34545323456" x="13" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="channel,PRINT" x="6" y="841889" width="7"/>
+		<xep:text value="34545323456" x="13" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="USERBK_NR,7870" x="6" y="841889" width="9"/>
+		<xep:text value="34545323456" x="15" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="DOC_TYP_CD,nul" x="6" y="841889" width="8"/>
+		<xep:text value="34545323456" x="14" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="PS_DOC_LNR,67432281" x="6" y="841889" width="11"/>
+		<xep:text value="34545323456" x="17" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="COPY_CD,1" x="6" y="841889" width="6"/>
+		<xep:text value="34545323456" x="12" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="BKLAG_JN,0" x="6" y="841889" width="6"/>
+		<xep:text value="34545323456" x="12" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="SITZ_NR,9315" x="6" y="841889" width="7"/>
+		<xep:text value="34545323456" x="13" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="DOC_DT,2017-08-14" x="6" y="841889" width="10"/>
+		<xep:text value="34545323456" x="16" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="DS_KAT,0" x="6" y="841889" width="5"/>
+		<xep:text value="34545323456" x="11" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="DS_KAT_BELEG_ART,0" x="6" y="841889" width="11"/>
+		<xep:text value="34545323456" x="17" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="PS_DOC_TYP_NR,7501504" x="6" y="841889" width="13"/>
+		<xep:text value="34545323456" x="19" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="formular,7501504" x="6" y="841889" width="8"/>
+		<xep:text value="34545323456" x="14" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="ordner,7501504" x="6" y="841889" width="7"/>
+		<xep:text value="34545323456" x="13" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="BCLD,7870" x="6" y="841889" width="5"/>
+		<xep:text value="34545323456" x="11" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="SPRACHE_CD,1" x="6" y="841889" width="8"/>
+		<xep:text value="34545323456" x="14" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="ORIG_CHANNEL,SCREEN" x="6" y="841889" width="12"/>
+		<xep:text value="34545323456" x="18" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="OUT_QUEUE_NAME,PDF" x="6" y="841889" width="12"/>
+		<xep:text value="34545323456" x="18" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="OUT_QUEUE_TARGET," x="6" y="841889" width="11"/>
+		<xep:text value="34545323456" x="17" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="PRN_LANGUAGE,PDF" x="6" y="841889" width="11"/>
+		<xep:text value="34545323456" x="17" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="KD_NR_INH,30025904" x="6" y="841889" width="10"/>
+		<xep:text value="34545323456" x="16" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="KT_NR,672034206" x="6" y="841889" width="9"/>
+		<xep:text value="34545323456" x="15" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="KD_NR_DEST,30025904" x="6" y="841889" width="11"/>
+		<xep:text value="34545323456" x="17" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="BELEG_BETRAG," x="6" y="841889" width="8"/>
+		<xep:text value="34545323456" x="14" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="WD_DOC_REF_ID,&lt;willÿbeÿoverwrittenÿbyÿDocBase>" x="6" y="841889" width="25"/>
+		<xep:text value="34545323456" x="31" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="DS_KAT_KUNDE,0" x="6" y="841889" width="9"/>
+		<xep:text value="34545323456" x="15" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="DS_KAT_KONTO,0" x="6" y="841889" width="9"/>
+		<xep:text value="34545323456" x="15" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="KURZFORM," x="6" y="841889" width="6"/>
+		<xep:text value="34545323456" x="12" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="BETRAG_ARC," x="6" y="841889" width="7"/>
+		<xep:text value="34545323456" x="13" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="MAIL_ART_CD," x="6" y="841889" width="7"/>
+		<xep:text value="34545323456" x="13" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="DELIV_GRP_CD,DEFAULT" x="6" y="841889" width="12"/>
+		<xep:text value="34545323456" x="18" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="SHIPPINGORDERID,to_overwrite" x="6" y="841889" width="15"/>
+		<xep:text value="34545323456" x="21" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="BUNDLEID,to_overwrite" x="6" y="841889" width="11"/>
+		<xep:text value="34545323456" x="17" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="DOCSORTID,to_overwrite" x="6" y="841889" width="12"/>
+		<xep:text value="34545323456" x="18" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="RECIPIENT_SORT,7870-48768580714921-11" x="6" y="841889" width="21"/>
+		<xep:text value="34545323456" x="27" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="LEITWEG_LNR,0" x="6" y="841889" width="8"/>
+		<xep:text value="34545323456" x="14" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="LAND_LNR,1" x="6" y="841889" width="6"/>
+		<xep:text value="34545323456" x="12" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="PLZ,6332" x="6" y="841889" width="4"/>
+		<xep:text value="34545323456" x="10" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="STRASSE_SORT_KEY,Rehhalde" x="6" y="841889" width="15"/>
+		<xep:text value="34545323456" x="21" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="KD_LNR_DEST,48768580714921" x="6" y="841889" width="15"/>
+		<xep:text value="34545323456" x="21" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="KD_ADR_LNR,11" x="6" y="841889" width="8"/>
+		<xep:text value="34545323456" x="14" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="ENCLOSURES," x="6" y="841889" width="7"/>
+		<xep:text value="34545323456" x="13" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="BERFIRMA_NR," x="6" y="841889" width="7"/>
+		<xep:text value="34545323456" x="13" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="KD_PORTFOLIO_NO,0" x="6" y="841889" width="11"/>
+		<xep:text value="34545323456" x="17" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="ENCLOSURESV2," x="6" y="841889" width="8"/>
+		<xep:text value="34545323456" x="14" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="ÿPS_ADR_ZEILE_1,Herr" x="6" y="841889" width="11"/>
+		<xep:text value="34545323456" x="17" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="PS_ADR_ZEILE_2,HermannÿAmrhein-Spillmann" x="6" y="841889" width="22"/>
+		<xep:text value="34545323456" x="28" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="PS_ADR_ZEILE_3,Rehhaldeÿ9" x="6" y="841889" width="14"/>
+		<xep:text value="34545323456" x="20" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="PS_ADR_ZEILE_4,6332ÿHagendorn" x="6" y="841889" width="16"/>
+		<xep:text value="34545323456" x="22" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="PS_ADR_ZEILE_5," x="6" y="841889" width="8"/>
+		<xep:text value="34545323456" x="14" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="PS_ADR_ZEILE_6," x="6" y="841889" width="8"/>
+		<xep:text value="34545323456" x="14" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="PS_ADR_ZEILE_7," x="6" y="841889" width="8"/>
+		<xep:text value="34545323456" x="14" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="RECIPIENTV2,48768580714921-11" x="6" y="841889" width="16"/>
+		<xep:text value="34545323456" x="22" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="RECIPIENT_SORTV2,PDF-7870-DEFAULT-0-1--6332-Rehhalde-9-48768580714921-11" x="6" y="841889" width="39"/>
+		<xep:text value="34545323456" x="45" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="ORDER_SHIP_ID," x="6" y="841889" width="8"/>
+		<xep:text value="34545323456" x="14" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="DUE_DATE_SHIP," x="6" y="841889" width="8"/>
+		<xep:text value="34545323456" x="14" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="DUE_DATE_ARCH," x="6" y="841889" width="9"/>
+		<xep:text value="34545323456" x="15" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="KD_NR_DEST_ARCH," x="6" y="841889" width="10"/>
+		<xep:text value="34545323456" x="16" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="KD_NR_INH_ARCH," x="6" y="841889" width="9"/>
+		<xep:text value="34545323456" x="15" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="KT_NR_ARCH," x="6" y="841889" width="7"/>
+		<xep:text value="34545323456" x="13" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="KT_LNR_ARCH," x="6" y="841889" width="7"/>
+		<xep:text value="34545323456" x="13" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="HAUS_NR,9" x="6" y="841889" width="6"/>
+		<xep:text value="34545323456" x="12" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="ORT_BEZ,Hagendorn" x="6" y="841889" width="10"/>
+		<xep:text value="34545323456" x="16" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="KD_BEZ,Amrhein-SpillmannÿHermann" x="6" y="841889" width="17"/>
+		<xep:text value="34545323456" x="23" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="FINNOVA_USER_ID,TGDBRJO8" x="6" y="841889" width="15"/>
+		<xep:text value="34545323456" x="21" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="KD_LNR_USER,TGDBRJO8" x="6" y="841889" width="13"/>
+		<xep:text value="34545323456" x="19" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="FINNOVA_USER_ID_DESC,BRJO8" x="6" y="841889" width="16"/>
+		<xep:text value="34545323456" x="22" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="CUSTOMER_FIRSTNAME,Hermann" x="6" y="841889" width="16"/>
+		<xep:text value="34545323456" x="22" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="CUSTOMER_LASTNAME,Amrhein-Spillmann" x="6" y="841889" width="20"/>
+		<xep:text value="34545323456" x="26" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="RECIPIENT_LASTNAME,Amrhein-Spillmann" x="6" y="841889" width="20"/>
+		<xep:text value="34545323456" x="26" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="RECIPIENT_FIRSTNAME,Hermann" x="6" y="841889" width="16"/>
+		<xep:text value="34545323456" x="22" y="841889" width="6"/>
+		<xep:text value="34545323455" x="0" y="841889" width="6"/>
+		<xep:text value="COPY_QUANTITY,1" x="6" y="841889" width="9"/>
+		<xep:text value="34545323456" x="15" y="841889" width="6"/>
+		<xep:pinpoint x="226772" y="742677" value="LOCAL_XSL,S1TESTBP,PSEG"/>
+		<xep:gray-color gray="0.0"/>
+		<xep:image src="http://localhost:12002/DBLayer/getResource?UID=41173246.1274276808260.18814790623679211.2.111145" type="image/png" x-from="226772" y-from="611692" scale-x="3.589962424924012" scale-y="3.589962424924012" width="141732" height="129670"/>
+		<xep:pinpoint x="51024" y="809292" value="DOC_IPE_TOPREGION BEGIN"/>
+		<xep:pinpoint x="51024" y="809292" value="NOP_here,Page|NOP-P| &lt;Page id='' documentid='67432281' shipmentid='' fileid=''> &lt;Perforation>0000&lt;/Perforation> &lt;Punching>0&lt;/Punching> &lt;Form>&lt;/Form> &lt;Fold>&lt;/Fold> &lt;Duplex>&lt;/Duplex> &lt;Overlay>&lt;/Overlay> &lt;/Page> |"/>
+		<xep:pinpoint x="345827" y="809292" value="LOCAL_XSL,S17870BP,PSEG"/>
+		<xep:image src="http://localhost:15210/DocBase2/finnova?lookup=logo&amp;mandant=7870&amp;orientation=P&amp;segment=S1&amp;lang=1" type="image/png" x-from="399124" y-from="786617" scale-x="1.0" scale-y="1.0" width="170640" height="21360"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="8000"/>
+		<xep:rgb-color red="0.0" green="0.0" blue="0.0"/>
+		<xep:text value="Zuger Kantonalbank" x="51024" y="803284" width="72040"/>
+		<xep:text value="Bahnhofstrasse 1" x="51024" y="795284" width="62256"/>
+		<xep:text value="Postfach" x="51024" y="787284" width="31128"/>
+		<xep:text value="6301 Zug" x="51024" y="779284" width="33800"/>
+		<xep:text value="Telefon +41 41 709 11 11" x="51024" y="771284" width="91400"/>
+		<xep:text value="www.zugerkb.ch" x="51024" y="763284" width="58680"/>
+		<xep:text value="CHE-105.744.410 MWST" x="51024" y="755284" width="90696"/>
+		<xep:pinpoint x="51024" y="724662" value="DOC_IPE_TOPREGION END"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="9000"/>
+		<xep:text value="Herr" x="51024" y="648395" width="17496"/>
+		<xep:line x-from="51024" x-till="68520" y-from="651485" y-till="651485" thickness="441" style="solid"/>
+		<xep:text value="Hermann Amrhein-Spillmann" x="51024" y="638395" width="115524"/>
+		<xep:line x-from="51024" x-till="166548" y-from="641485" y-till="641485" thickness="441" style="solid"/>
+		<xep:text value="Rehhalde 9" x="51024" y="628395" width="46026"/>
+		<xep:line x-from="51024" x-till="97050" y-from="631485" y-till="631485" thickness="441" style="solid"/>
+		<xep:text value="6332 Hagendorn" x="51024" y="618395" width="67041"/>
+		<xep:line x-from="51024" x-till="118065" y-from="621485" y-till="621485" thickness="441" style="solid"/>
+		<xep:text value="Zug, 14.08.2017" x="334488" y="529282" width="65547"/>
+		<xep:polygon x-from="334488" y-from="699108">
+			<xep:point x-till="569764" y-till="699108"/>
+			<xep:point x-till="569764" y-till="699508"/>
+			<xep:point x-till="334488" y-till="699508"/>
+		</xep:polygon>
+		<xep:polygon x-from="334488" y-from="682704">
+			<xep:point x-till="569764" y-till="682704"/>
+			<xep:point x-till="569764" y-till="683104"/>
+			<xep:point x-till="334488" y-till="683104"/>
+		</xep:polygon>
+		<xep:polygon x-from="334488" y-from="656139">
+			<xep:point x-till="569764" y-till="656139"/>
+			<xep:point x-till="569764" y-till="656539"/>
+			<xep:point x-till="334488" y-till="656539"/>
+		</xep:polygon>
+		<xep:polygon x-from="334488" y-from="629570">
+			<xep:point x-till="569764" y-till="629570"/>
+			<xep:point x-till="569764" y-till="629970"/>
+			<xep:point x-till="334488" y-till="629970"/>
+		</xep:polygon>
+		<xep:polygon x-from="443622" y-from="583154">
+			<xep:point x-till="569764" y-till="583154"/>
+			<xep:point x-till="569764" y-till="583554"/>
+			<xep:point x-till="443622" y-till="583554"/>
+		</xep:polygon>
+		<xep:polygon x-from="334488" y-from="583154">
+			<xep:point x-till="443622" y-till="583154"/>
+			<xep:point x-till="443622" y-till="583554"/>
+			<xep:point x-till="334488" y-till="583554"/>
+		</xep:polygon>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="8000"/>
+		<xep:text value="ZugerKB Konto-Set Basis" x="334488" y="689096" width="97784"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="8000"/>
+		<xep:text value="06-720.342-06" x="447874" y="672696" width="52032"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="8000"/>
+		<xep:text value="Privatkonto" x="334488" y="672692" width="44008"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="8000"/>
+		<xep:text value="CH61 0078 7000 6720 3420 6" x="447874" y="662696" width="107184"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="8000"/>
+		<xep:text value="IBAN" x="334488" y="662692" width="19552"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="8000"/>
+		<xep:text value="Zuger Kantonalbank direkt PK" x="447874" y="646131" width="106720"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="8000"/>
+		<xep:text value="Ihr Kundenberater" x="334488" y="646127" width="69344"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="8000"/>
+		<xep:text value="+41 41 709 11 11" x="447874" y="636127" width="62496"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="8000"/>
+		<xep:text value="Direktwahl" x="334488" y="636123" width="40456"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="8000"/>
+		<xep:text value="28'828.22" x="478183" y="619562" width="34888"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="8000"/>
+		<xep:text value="Anfangssaldo" x="334488" y="619558" width="52896"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="8000"/>
+		<xep:text value="7.25" x="497503" y="609558" width="15568"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="8000"/>
+		<xep:text value="Belastungen" x="334488" y="609554" width="48008"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="8000"/>
+		<xep:text value="2.25" x="497503" y="599554" width="15568"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="8000"/>
+		<xep:text value="Gutschriften" x="334488" y="599550" width="47560"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="8000"/>
+		<xep:text value="28'823.22" x="478183" y="589550" width="34888"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="8000"/>
+		<xep:text value="Saldo" x="334488" y="589546" width="21784"/>
+		<xep:polygon x-from="170079" y-from="664725">
+			<xep:point x-till="209764" y-till="664725"/>
+			<xep:point x-till="209764" y-till="665125"/>
+			<xep:point x-till="170079" y-till="665125"/>
+		</xep:polygon>
+		<xep:polygon x-from="51024" y-from="664725">
+			<xep:point x-till="170079" y-till="664725"/>
+			<xep:point x-till="170079" y-till="665125"/>
+			<xep:point x-till="51024" y-till="665125"/>
+		</xep:polygon>
+		<xep:polygon x-from="209764" y-from="664725">
+			<xep:point x-till="226772" y-till="664725"/>
+			<xep:point x-till="226772" y-till="665125"/>
+			<xep:point x-till="209764" y-till="665125"/>
+		</xep:polygon>
+		<xep:pinpoint x="170079" y="693071" value="NOP_plain,PostArt"/>
+		<xep:rgb-color red="1.0" green="0.0" blue="0.0"/>
+		<xep:line style="dashed" thickness="1000" x-from="181917" y-from="830051" x-till="338823" y-till="830051"/>
+		<xep:line style="dashed" thickness="1000" x-from="181917" y-from="778029" x-till="338823" y-till="778029"/>
+		<xep:line style="dashed" thickness="1000" x-from="181917" y-from="778029" x-till="181917" y-till="830051"/>
+		<xep:line style="dashed" thickness="1000" x-from="338823" y-from="778029" x-till="338823" y-till="830051"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="6000"/>
+		<xep:text value="7501504" x="250449" y="824310" width="23352"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="6000"/>
+		<xep:text value="Dok-Typ:" x="185252" y="824307" width="25998"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="6000"/>
+		<xep:text value="7501003" x="250449" y="818641" width="23352"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="6000"/>
+		<xep:text value="Master Dok-Typ:" x="185252" y="818638" width="47004"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="6000"/>
+		<xep:text value="Postenauszug hoch - online" x="250449" y="812972" width="74040"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="6000"/>
+		<xep:text value="Bezeichnung:" x="185252" y="812969" width="39336"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="6000"/>
+		<xep:text value="67432281" x="250449" y="807303" width="26688"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="6000"/>
+		<xep:text value="Dokument Nr.:" x="185252" y="807300" width="41334"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="6000"/>
+		<xep:text value="K" x="250449" y="801634" width="4002"/>
+		<xep:letter-spacing value="-24"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="6000"/>
+		<xep:text value="Bank/Kundedokument:" x="185252" y="801631" width="65214"/>
+		<xep:letter-spacing value="0"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="6000"/>
+		<xep:text value="7870" x="250449" y="795965" width="13344"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="6000"/>
+		<xep:text value="Mandant:" x="185252" y="795962" width="26664"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="6000"/>
+		<xep:text value="1" x="250449" y="790296" width="3336"/>
+		<xep:text value="(" x="255453" y="790296" width="1998"/>
+		<xep:text value="Deutsch" x="257451" y="790296" width="22008"/>
+		<xep:text value=")" x="279459" y="790296" width="1998"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="6000"/>
+		<xep:text value="Sprache:" x="185252" y="790293" width="25674"/>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="6000"/>
+		<xep:text value="14.08.2017 17:07" x="250449" y="784627" width="46704"/>
+		<xep:font family="Arial" weight="700" style="normal" variant="normal" size="6000"/>
+		<xep:text value="Printed at:" x="185252" y="784624" width="29670"/>
+		<xep:pinpoint x="51024" y="59528" value="DOC_IPE_BOTTOMREGION BEGIN"/>
+		<xep:rgb-color red="0.0" green="0.0" blue="0.0"/>
+		<xep:polygon x-from="518740" y-from="59028">
+			<xep:point x-till="569764" y-till="59028"/>
+			<xep:point x-till="569764" y-till="59528"/>
+			<xep:point x-till="518740" y-till="59528"/>
+		</xep:polygon>
+		<xep:polygon x-from="462047" y-from="59028">
+			<xep:point x-till="518740" y-till="59028"/>
+			<xep:point x-till="518740" y-till="59528"/>
+			<xep:point x-till="462047" y-till="59528"/>
+		</xep:polygon>
+		<xep:polygon x-from="425197" y-from="59028">
+			<xep:point x-till="462047" y-till="59028"/>
+			<xep:point x-till="462047" y-till="59528"/>
+			<xep:point x-till="425197" y-till="59528"/>
+		</xep:polygon>
+		<xep:polygon x-from="51024" y-from="59028">
+			<xep:point x-till="425197" y-till="59028"/>
+			<xep:point x-till="425197" y-till="59528"/>
+			<xep:point x-till="51024" y-till="59528"/>
+		</xep:polygon>
+		<xep:font family="Arial" weight="400" style="normal" variant="normal" size="8000"/>
+		<xep:text value="Seite " x="535964" y="47268" width="20456"/>
+		<xep:text value="1" x="558644" y="47268" width="4448"/>
+		<xep:text value="/" x="563092" y="47268" width="2224"/>
+		<xep:text value="1" x="565316" y="47268" width="4448"/>
+		<xep:text value="67'432'281" x="480100" y="47268" width="38640"/>
+		<xep:pinpoint x="51024" y="54776" value="IMAGE_EMBED,PLAIN"/>
+		<xep:gray-color gray="0.0"/>
+		<xep:image src="http://localhost:12002/DBLayer/getResource?UID=1189145247.1359372065452.38327576751196711.0.111145" type="image/png" x-from="51024" y-from="42196" scale-x="1.0" scale-y="1.0" width="143520" height="10800"/>
+	</xep:page>
+</xep:document>

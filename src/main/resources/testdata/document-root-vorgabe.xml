@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XmlNops>
+	<File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+		<Origin>Swisscom</Origin>
+		<Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG"/>
+		<Version>1</Version>
+		<Environment>Prod</Environment>
+		<TechnicalSLA id="A-DAY" name="A-Post täglich"/>
+		<Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+		<Priority>High</Priority>
+		<Comment>Kommentar</Comment>
+	</File>
+	<Document id="1" shipmentid="1" fileid="1">
+		<Folding>0</Folding>
+		<DocumentType>Kontoauszug jährlich</DocumentType>
+		<Recipient>
+			<line>Stephan Bühler</line>
+			<line>Weinberglistrasse 4</line>
+			<line>6004 Luzern</line>
+		</Recipient>
+		<Supplements>
+			<eSupplement>E123</eSupplement>
+		</Supplements>
+	</Document>
+	<Shipment id="1" fileid="1">
+		<Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678"/>
+		<Recipient country="CH" language="de">
+			<line>Stephan Bühler</line>
+			<line>Weinberglistrasse 4</line>
+			<line>6004 Luzern</line>
+		</Recipient>
+		<Processing>Standard</Processing>
+		<ShippingMethod>A-Post</ShippingMethod>
+		<ReturnDisposal code="5" kdpid="12345678"/>
+		<ShipmentReason>0</ShipmentReason>
+		<ClientDMX>12475984759024753489075</ClientDMX>
+		<Supplements>
+			<Supplement>B123</Supplement>
+			<eSupplement>E123</eSupplement>
+		</Supplements>
+	</Shipment>
+	<Page id="1" documentid="1" shipmentid="1" fileid="1">
+		<Perforation>0000</Perforation>
+		<Punching>0</Punching>
+		<Form>A4ESR</Form>
+		<Fold>1</Fold>
+		<Duplex>F</Duplex>
+		<Overlay>ESRUnten</Overlay>
+	</Page>
+	<Order>
+
+	</Order>
+</XmlNops>
+
