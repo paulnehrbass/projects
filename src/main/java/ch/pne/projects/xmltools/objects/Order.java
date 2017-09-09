@@ -1,7 +1,4 @@
-package ch.rno.workshops.objects;
-
-import ch.rno.workshops.xmltools.XMLTools;
-import org.jdom2.Document;
+package ch.pne.projects.xmltools.objects;
 
 import java.util.List;
 

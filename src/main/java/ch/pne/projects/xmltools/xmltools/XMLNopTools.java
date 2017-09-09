@@ -1,4 +1,4 @@
-package ch.rno.workshops.xmltools;
+package ch.pne.projects.xmltools.xmltools;
 
 import org.apache.log4j.Logger;
 import org.jdom2.Attribute;

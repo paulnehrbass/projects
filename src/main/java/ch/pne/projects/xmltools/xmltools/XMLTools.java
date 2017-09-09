@@ -1,6 +1,6 @@
-package ch.rno.workshops.xmltools;
+package ch.pne.projects.xmltools.xmltools;
 
-import ch.rno.workshops.enums.XMLSource;
+import ch.pne.projects.xmltools.enums.XMLSource;
 import org.apache.log4j.Logger;
 import org.jdom2.Attribute;
 import org.jdom2.Document;

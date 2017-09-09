@@ -1,7 +1,7 @@
-package ch.rno.workshops.xmltools;
+package ch.pne.projects.xmltools.xmltools;
 
-import ch.rno.workshops.objects.Order;
-import ch.rno.workshops.objects.Supplement;
+import ch.pne.projects.xmltools.objects.Order;
+import ch.pne.projects.xmltools.objects.Supplement;
 import org.apache.log4j.Logger;
 import org.jdom2.Document;
 import org.jdom2.Element;

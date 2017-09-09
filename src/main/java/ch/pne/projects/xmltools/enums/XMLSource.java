@@ -1,4 +1,4 @@
-package ch.rno.workshops.enums;
+package ch.pne.projects.xmltools.enums;
 
 /**
  * Created by lapdog on 02.09.2017.

@@ -1,4 +1,4 @@
-package ch.rno.workshops.templates;
+package ch.pne.projects.xmltools.templates;
 
 /**
  * Created by lapdog on 02.09.2017.

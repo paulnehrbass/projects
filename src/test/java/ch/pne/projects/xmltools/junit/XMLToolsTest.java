@@ -1,8 +1,8 @@
-package ch.rno.workshops.junit;
+package ch.pne.projects.xmltools.junit;
 
-import ch.rno.workshops.enums.XMLSource;
-import ch.rno.workshops.templates.XMLTemplates;
-import ch.rno.workshops.xmltools.XMLTools;
+import ch.pne.projects.xmltools.enums.XMLSource;
+import ch.pne.projects.xmltools.templates.XMLTemplates;
+import ch.pne.projects.xmltools.xmltools.XMLTools;
 import junit.framework.TestCase;
 import org.apache.log4j.Logger;
 import org.hamcrest.Matchers;
@@ -19,7 +19,7 @@ import static org.junit.Assert.assertThat;
 public class XMLToolsTest extends TestCase{
     //http://www.mkyong.com/unittest/junit-4-tutorial-1-basic-usage/
     final static Logger LOGGER = Logger.getLogger(XMLToolsTest.class);
-    final static String pathToFile = "D:\\dev\\XmlNop\\src\\main\\resources\\testdata\\data.xml";
+    final static String pathToFile = "D:\\dev\\projects\\src\\main\\resources\\testdata\\data.xml";
     final static String pathToResource = "testdata/document-root-vorgabe.xml";
 
     private XMLTools xmlToolsFromResource;

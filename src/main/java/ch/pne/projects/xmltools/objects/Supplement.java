@@ -1,4 +1,4 @@
-package ch.rno.workshops.objects;
+package ch.pne.projects.xmltools.objects;
 
 /**
  * Created by lapdog on 02.09.2017.
