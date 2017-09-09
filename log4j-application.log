@@ -1008,7 +1008,7 @@ java.io.FileNotFoundException: D:\dev\XmlNop\target\classes\testdata%5cdocument-
 	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1116)
 	at XMLTools.init(XMLTools.java:142)
 	at XMLTools.<init>(XMLTools.java:48)
-	at ch.rno.workshops.junit.XMLToolsTest.testXMLTools(BasicAnnotationTest.java:53)
+	at XMLToolsTest.testXMLTools(BasicAnnotationTest.java:53)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -1120,9 +1120,9 @@ java.io.FileNotFoundException: D:\dev\XmlNop\target\classes\testdata%5cdocument-
 2017-09-02 11:26:43 ERROR XMLTools:150 - IOException initFromString(): 
 java.net.MalformedURLException: SAXBuilder.build(String) expects the String to be a systemID, but in this instance it appears to be actual XML data.
 	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1277)
-	at ch.rno.workshops.xmltools.XMLTools.initFromString(XMLTools.java:144)
-	at ch.rno.workshops.xmltools.XMLTools.<init>(XMLTools.java:45)
-	at ch.rno.workshops.junit.XMLToolsTest.setUp(XMLToolsTest.java:32)
+	at XMLTools.initFromString(XMLTools.java:144)
+	at XMLTools.<init>(XMLTools.java:45)
+	at XMLToolsTest.setUp(XMLToolsTest.java:32)
 	at junit.framework.TestCase.runBare(TestCase.java:139)
 	at junit.framework.TestResult$1.protect(TestResult.java:122)
 	at junit.framework.TestResult.runProtected(TestResult.java:142)
@@ -1170,9 +1170,9 @@ Caused by: java.net.MalformedURLException: no protocol: <Document id="1" shipmen
 2017-09-02 11:26:43 ERROR XMLTools:150 - IOException initFromString(): 
 java.net.MalformedURLException: SAXBuilder.build(String) expects the String to be a systemID, but in this instance it appears to be actual XML data.
 	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1277)
-	at ch.rno.workshops.xmltools.XMLTools.initFromString(XMLTools.java:144)
-	at ch.rno.workshops.xmltools.XMLTools.<init>(XMLTools.java:45)
-	at ch.rno.workshops.junit.XMLToolsTest.setUp(XMLToolsTest.java:32)
+	at XMLTools.initFromString(XMLTools.java:144)
+	at XMLTools.<init>(XMLTools.java:45)
+	at XMLToolsTest.setUp(XMLToolsTest.java:32)
 	at junit.framework.TestCase.runBare(TestCase.java:139)
 	at junit.framework.TestResult$1.protect(TestResult.java:122)
 	at junit.framework.TestResult.runProtected(TestResult.java:142)
@@ -1224,9 +1224,9 @@ Caused by: java.net.MalformedURLException: no protocol: <Document id="1" shipmen
 2017-09-02 11:28:29 ERROR XMLTools:150 - IOException initFromString(): 
 java.net.MalformedURLException: SAXBuilder.build(String) expects the String to be a systemID, but in this instance it appears to be actual XML data.
 	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1277)
-	at ch.rno.workshops.xmltools.XMLTools.initFromString(XMLTools.java:144)
-	at ch.rno.workshops.xmltools.XMLTools.<init>(XMLTools.java:45)
-	at ch.rno.workshops.junit.XMLToolsTest.setUp(XMLToolsTest.java:32)
+	at XMLTools.initFromString(XMLTools.java:144)
+	at XMLTools.<init>(XMLTools.java:45)
+	at XMLToolsTest.setUp(XMLToolsTest.java:32)
 	at junit.framework.TestCase.runBare(TestCase.java:139)
 	at junit.framework.TestResult$1.protect(TestResult.java:122)
 	at junit.framework.TestResult.runProtected(TestResult.java:142)
@@ -1275,9 +1275,9 @@ Caused by: java.net.MalformedURLException: no protocol: <?xml version='1.0' enco
 2017-09-02 11:28:29 ERROR XMLTools:150 - IOException initFromString(): 
 java.net.MalformedURLException: SAXBuilder.build(String) expects the String to be a systemID, but in this instance it appears to be actual XML data.
 	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1277)
-	at ch.rno.workshops.xmltools.XMLTools.initFromString(XMLTools.java:144)
-	at ch.rno.workshops.xmltools.XMLTools.<init>(XMLTools.java:45)
-	at ch.rno.workshops.junit.XMLToolsTest.setUp(XMLToolsTest.java:32)
+	at XMLTools.initFromString(XMLTools.java:144)
+	at XMLTools.<init>(XMLTools.java:45)
+	at XMLToolsTest.setUp(XMLToolsTest.java:32)
 	at junit.framework.TestCase.runBare(TestCase.java:139)
 	at junit.framework.TestResult$1.protect(TestResult.java:122)
 	at junit.framework.TestResult.runProtected(TestResult.java:142)
@@ -1330,9 +1330,9 @@ Caused by: java.net.MalformedURLException: no protocol: <?xml version='1.0' enco
 2017-09-02 11:29:06 ERROR XMLTools:150 - IOException initFromString(): 
 java.net.MalformedURLException: SAXBuilder.build(String) expects the String to be a systemID, but in this instance it appears to be actual XML data.
 	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1277)
-	at ch.rno.workshops.xmltools.XMLTools.initFromString(XMLTools.java:144)
-	at ch.rno.workshops.xmltools.XMLTools.<init>(XMLTools.java:45)
-	at ch.rno.workshops.junit.XMLToolsTest.setUp(XMLToolsTest.java:32)
+	at XMLTools.initFromString(XMLTools.java:144)
+	at XMLTools.<init>(XMLTools.java:45)
+	at XMLToolsTest.setUp(XMLToolsTest.java:32)
 	at junit.framework.TestCase.runBare(TestCase.java:139)
 	at junit.framework.TestResult$1.protect(TestResult.java:122)
 	at junit.framework.TestResult.runProtected(TestResult.java:142)
@@ -1381,9 +1381,9 @@ Caused by: java.net.MalformedURLException: no protocol: <?xml version="1.0" enco
 2017-09-02 11:29:06 ERROR XMLTools:150 - IOException initFromString(): 
 java.net.MalformedURLException: SAXBuilder.build(String) expects the String to be a systemID, but in this instance it appears to be actual XML data.
 	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1277)
-	at ch.rno.workshops.xmltools.XMLTools.initFromString(XMLTools.java:144)
-	at ch.rno.workshops.xmltools.XMLTools.<init>(XMLTools.java:45)
-	at ch.rno.workshops.junit.XMLToolsTest.setUp(XMLToolsTest.java:32)
+	at XMLTools.initFromString(XMLTools.java:144)
+	at XMLTools.<init>(XMLTools.java:45)
+	at XMLToolsTest.setUp(XMLToolsTest.java:32)
 	at junit.framework.TestCase.runBare(TestCase.java:139)
 	at junit.framework.TestResult$1.protect(TestResult.java:122)
 	at junit.framework.TestResult.runProtected(TestResult.java:142)
@@ -2332,3 +2332,737 @@ Caused by: java.net.MalformedURLException: no protocol: <?xml version="1.0" enco
 2017-09-09 13:28:35 INFO  XMLToolsTest:55 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
 2017-09-09 13:28:35 INFO  XMLToolsTest:60 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
 2017-09-09 13:28:35 INFO  XMLToolsTest:65 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-09 14:30:06 ERROR XMLTools:176 - IOException initFromFile(): 
+java.io.FileNotFoundException: D:\dev\XmlNop\src\main\resources\testdata\data.xml (Das System kann den angegebenen Pfad nicht finden)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:90)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:188)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:622)
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:189)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:217)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:277)
+	at org.jdom2.input.sax.SAXBuilderEngine.build(SAXBuilderEngine.java:264)
+	at org.jdom2.input.SAXBuilder.build(SAXBuilder.java:1116)
+	at XMLTools.initFromFile(XMLTools.java:170)
+	at XMLTools.<init>(XMLTools.java:36)
+	at XMLToolsTest.setUp(XMLToolsTest.java:34)
+	at junit.framework.TestCase.runBare(TestCase.java:139)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+	at junit.framework.TestSuite.run(TestSuite.java:247)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:51)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:237)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+2017-09-09 14:30:06 INFO  XMLToolsTest:45 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-09 14:30:06 INFO  XMLToolsTest:50 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-09 14:30:06 INFO  XMLToolsTest:55 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-09 14:30:06 INFO  XMLToolsTest:60 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-09 14:30:06 INFO  XMLToolsTest:65 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-09 14:30:56 INFO  XMLToolsTest:45 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-09 14:30:56 INFO  XMLToolsTest:50 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-09 14:30:56 INFO  XMLToolsTest:55 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-09 14:30:56 INFO  XMLToolsTest:60 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-09 14:30:56 INFO  XMLToolsTest:65 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-09 14:32:07 INFO  XMLToolsTest:73 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-09 14:32:07 INFO  XMLToolsTest:99 - @testGetElement(folding): equalTo('Folding'): true -> <Folding>0</Folding>
+2017-09-09 14:32:07 INFO  XMLToolsTest:117 - @testUpdateElement(origin): equalsTo('rno'): true -> <Folding>rno</Folding>
+2017-09-09 14:32:07 INFO  XMLToolsTest:45 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-09 14:32:07 INFO  XMLToolsTest:50 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-09 14:32:07 INFO  XMLToolsTest:55 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-09 14:32:07 INFO  XMLToolsTest:60 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-09 14:32:07 INFO  XMLToolsTest:65 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-09 14:32:07 INFO  XMLToolsTest:137 - @testAppendElement(/XmlNops/rno): rno.name equalsTo('rno'): true -> <XmlNops>
+  <File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+  <Order />
+  <rno>value</rno>
+</XmlNops>
+2017-09-09 14:32:07 INFO  XMLToolsTest:157 - @testDeleteElement(/XmlNops/File): XmlNops/File.name equalsTo('File'): null 
+-> <XmlNops>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+  <Order />
+</XmlNops>
+2017-09-09 14:32:07 INFO  XMLToolsTest:90 - @testxmlToolsFromDocument: root.name equals 'root' -> true
+2017-09-09 14:32:07 INFO  XMLToolsTest:147 - @testAppendAttribute(/XmlNops/@rno): rno.name equalsTo('rno'): true 
+-> <XmlNops rno="value">
+  <File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+  <Order />
+</XmlNops>
+2017-09-09 14:32:07 INFO  XMLToolsTest:167 - @testDeleteAttribute(/XmlNops/File/@id): XmlNops/File/@id.name equalsTo('id'): null 
+-> <XmlNops>
+  <File name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+  <Order />
+</XmlNops>
+2017-09-09 14:32:07 INFO  XMLToolsTest:82 - @testXmlToolsFromString: root.name equals 'Document' -> true
+2017-09-09 14:32:07 INFO  XMLToolsTest:107 - @testGetAttribute(/Document/@id): Document/@id.name equalTo('id'): true -> <Document id="1" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
+2017-09-09 14:32:07 INFO  XMLToolsTest:127 - @testUpdateAttribute(@id): id.value equalsTo('999'): true -> <Document id="999" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
+2017-09-09 14:34:08 INFO  XMLToolsTest:73 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-09 14:34:08 INFO  XMLToolsTest:99 - @testGetElement(folding): equalTo('Folding'): true -> <Folding>0</Folding>
+2017-09-09 14:34:08 INFO  XMLToolsTest:117 - @testUpdateElement(origin): equalsTo('rno'): true -> <Folding>rno</Folding>
+2017-09-09 14:34:08 INFO  XMLToolsTest:45 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-09 14:34:08 INFO  XMLToolsTest:50 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-09 14:34:08 INFO  XMLToolsTest:55 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-09 14:34:08 INFO  XMLToolsTest:60 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-09 14:34:08 INFO  XMLToolsTest:65 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-09 14:34:08 INFO  XMLToolsTest:137 - @testAppendElement(/XmlNops/rno): rno.name equalsTo('rno'): true -> <XmlNops>
+  <File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+  <Order />
+  <rno>value</rno>
+</XmlNops>
+2017-09-09 14:34:08 INFO  XMLToolsTest:157 - @testDeleteElement(/XmlNops/File): XmlNops/File.name equalsTo('File'): null 
+-> <XmlNops>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+  <Order />
+</XmlNops>
+2017-09-09 14:34:08 INFO  XMLToolsTest:90 - @testxmlToolsFromDocument: root.name equals 'root' -> true
+2017-09-09 14:34:08 INFO  XMLToolsTest:147 - @testAppendAttribute(/XmlNops/@rno): rno.name equalsTo('rno'): true 
+-> <XmlNops rno="value">
+  <File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+  <Order />
+</XmlNops>
+2017-09-09 14:34:08 INFO  XMLToolsTest:167 - @testDeleteAttribute(/XmlNops/File/@id): XmlNops/File/@id.name equalsTo('id'): null 
+-> <XmlNops>
+  <File name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+  <Order />
+</XmlNops>
+2017-09-09 14:34:08 INFO  XMLToolsTest:82 - @testXmlToolsFromString: root.name equals 'Document' -> true
+2017-09-09 14:34:08 INFO  XMLToolsTest:107 - @testGetAttribute(/Document/@id): Document/@id.name equalTo('id'): true -> <Document id="1" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
+2017-09-09 14:34:08 INFO  XMLToolsTest:127 - @testUpdateAttribute(@id): id.value equalsTo('999'): true -> <Document id="999" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
+2017-09-09 14:34:44 INFO  XMLToolsTest:73 - @testXmlToolsFromFile: root.name equals 'company' -> true
+2017-09-09 14:34:44 INFO  XMLToolsTest:99 - @testGetElement(folding): equalTo('Folding'): true -> <Folding>0</Folding>
+2017-09-09 14:34:44 INFO  XMLToolsTest:117 - @testUpdateElement(origin): equalsTo('rno'): true -> <Folding>rno</Folding>
+2017-09-09 14:34:44 INFO  XMLToolsTest:45 - @testXmlToolsFromResource: root.name equals 'XmlNops' -> true
+2017-09-09 14:34:44 INFO  XMLToolsTest:50 - @testXmlToolsFromResource: file.name equals 'File' -> true
+2017-09-09 14:34:44 INFO  XMLToolsTest:55 - @testXmlToolsFromResource: shipment.name equals 'Shipment' -> true
+2017-09-09 14:34:44 INFO  XMLToolsTest:60 - @testXmlToolsFromResource: Document.name equals 'Document' -> true
+2017-09-09 14:34:44 INFO  XMLToolsTest:65 - @testXmlToolsFromResource: Page.name equals 'Page' -> true
+2017-09-09 14:34:44 INFO  XMLToolsTest:137 - @testAppendElement(/XmlNops/rno): rno.name equalsTo('rno'): true -> <XmlNops>
+  <File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+  <Order />
+  <rno>value</rno>
+</XmlNops>
+2017-09-09 14:34:44 INFO  XMLToolsTest:157 - @testDeleteElement(/XmlNops/File): XmlNops/File.name equalsTo('File'): null 
+-> <XmlNops>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+  <Order />
+</XmlNops>
+2017-09-09 14:34:44 INFO  XMLToolsTest:90 - @testxmlToolsFromDocument: root.name equals 'root' -> true
+2017-09-09 14:34:44 INFO  XMLToolsTest:147 - @testAppendAttribute(/XmlNops/@rno): rno.name equalsTo('rno'): true 
+-> <XmlNops rno="value">
+  <File id="1" name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+  <Order />
+</XmlNops>
+2017-09-09 14:34:44 INFO  XMLToolsTest:167 - @testDeleteAttribute(/XmlNops/File/@id): XmlNops/File/@id.name equalsTo('id'): null 
+-> <XmlNops>
+  <File name="Swisscom_Prod_KundeXY_1_20160815-160012_A-DAY_Comment.afp">
+    <Origin>Swisscom</Origin>
+    <Client id="KundeXY" name="KundeXY Dienstleistung (Schweiz) AG" />
+    <Version>1</Version>
+    <Environment>Prod</Environment>
+    <TechnicalSLA id="A-DAY" name="A-Post täglich" />
+    <Timestamp>2016-08-15T16:00:12+02:00</Timestamp>
+    <Priority>High</Priority>
+    <Comment>Kommentar</Comment>
+  </File>
+  <Document id="1" shipmentid="1" fileid="1">
+    <Folding>0</Folding>
+    <DocumentType>Kontoauszug jährlich</DocumentType>
+    <Recipient>
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Supplements>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Document>
+  <Shipment id="1" fileid="1">
+    <Sender id="SISA" name="SIE Firma" branch="Luzern" employee="FX12345" rrn="12345678" />
+    <Recipient country="CH" language="de">
+      <line>Stephan Bühler</line>
+      <line>Weinberglistrasse 4</line>
+      <line>6004 Luzern</line>
+    </Recipient>
+    <Processing>Standard</Processing>
+    <ShippingMethod>A-Post</ShippingMethod>
+    <ReturnDisposal code="5" kdpid="12345678" />
+    <ShipmentReason>0</ShipmentReason>
+    <ClientDMX>12475984759024753489075</ClientDMX>
+    <Supplements>
+      <Supplement>B123</Supplement>
+      <eSupplement>E123</eSupplement>
+    </Supplements>
+  </Shipment>
+  <Page id="1" documentid="1" shipmentid="1" fileid="1">
+    <Perforation>0000</Perforation>
+    <Punching>0</Punching>
+    <Form>A4ESR</Form>
+    <Fold>1</Fold>
+    <Duplex>F</Duplex>
+    <Overlay>ESRUnten</Overlay>
+  </Page>
+  <Order />
+</XmlNops>
+2017-09-09 14:34:44 INFO  XMLToolsTest:82 - @testXmlToolsFromString: root.name equals 'Document' -> true
+2017-09-09 14:34:44 INFO  XMLToolsTest:107 - @testGetAttribute(/Document/@id): Document/@id.name equalTo('id'): true -> <Document id="1" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
+2017-09-09 14:34:44 INFO  XMLToolsTest:127 - @testUpdateAttribute(@id): id.value equalsTo('999'): true -> <Document id="999" shipmentid="1" fileid="1">
+  <Folding>0</Folding>
+  <DocumentType>Kontoauszug jährlich</DocumentType>
+  <Recipient>
+    <line>Stephan Bühler</line>
+    <line>Weinberglistrasse 4</line>
+    <line>6004 Luzern</line>
+  </Recipient>
+  <Supplements>
+    <eSupplement>E123</eSupplement>
+  </Supplements>
+</Document>
