@@ -65,9 +65,12 @@ public class XMLTools {
     //------------------------------------------------------------------------------------------------------------------
     // publics
     //------------------------------------------------------------------------------------------------------------------
-    public Element getElement(String xPath){
+    public Element getElement(String xPath) throws XMLToolException {
         final XPathExpression<Element> compile = XPathFactory.instance().compile(
                 xPath, new ElementFilter());
+        if(compile.evaluateFirst(document) == null){
+            throw new XMLToolException("compile must not be null. Error in getElement(String xPath)");
+        }
         return compile.evaluateFirst(document);
     }
 

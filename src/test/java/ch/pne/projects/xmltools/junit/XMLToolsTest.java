@@ -47,25 +47,30 @@ public class XMLToolsTest extends TestCase{
                 + xmlToolsFromResource.getRoot().getName()
                 +"' -> " + xmlToolsFromResource.getRoot().getName().equals("XmlNops"));
 
-        assertThat(xmlToolsFromResource.getElement("/XmlNops/File").getName(), Matchers.equalTo("File"));
-        LOGGER.info("@testXmlToolsFromResource: file.name equals '"
-                + xmlToolsFromResource.getElement("/XmlNops/File").getName()
-                +"' -> " + xmlToolsFromResource.getElement("/XmlNops/File").getName().equals("File"));
+        try{
+            assertThat(xmlToolsFromResource.getElement("/XmlNops/File").getName(), Matchers.equalTo("File"));
+            LOGGER.info("@testXmlToolsFromResource: file.name equals '"
+                    + xmlToolsFromResource.getElement("/XmlNops/File").getName()
+                    +"' -> " + xmlToolsFromResource.getElement("/XmlNops/File").getName().equals("File"));
 
-        assertThat(xmlToolsFromResource.getElement("/XmlNops/Shipment").getName(), Matchers.equalTo("Shipment"));
-        LOGGER.info("@testXmlToolsFromResource: shipment.name equals '"
-                + xmlToolsFromResource.getElement("/XmlNops/Shipment").getName()
-                +"' -> " + xmlToolsFromResource.getElement("/XmlNops/Shipment").getName().equals("Shipment"));
+            assertThat(xmlToolsFromResource.getElement("/XmlNops/Shipment").getName(), Matchers.equalTo("Shipment"));
+            LOGGER.info("@testXmlToolsFromResource: shipment.name equals '"
+                    + xmlToolsFromResource.getElement("/XmlNops/Shipment").getName()
+                    +"' -> " + xmlToolsFromResource.getElement("/XmlNops/Shipment").getName().equals("Shipment"));
 
-        assertThat(xmlToolsFromResource.getElement("/XmlNops/Document").getName(), Matchers.equalTo("Document"));
-        LOGGER.info("@testXmlToolsFromResource: Document.name equals '"
-                + xmlToolsFromResource.getElement("/XmlNops/Document").getName()
-                +"' -> " + xmlToolsFromResource.getElement("/XmlNops/Document").getName().equals("Document"));
+            assertThat(xmlToolsFromResource.getElement("/XmlNops/Document").getName(), Matchers.equalTo("Document"));
+            LOGGER.info("@testXmlToolsFromResource: Document.name equals '"
+                    + xmlToolsFromResource.getElement("/XmlNops/Document").getName()
+                    +"' -> " + xmlToolsFromResource.getElement("/XmlNops/Document").getName().equals("Document"));
 
-        assertThat(xmlToolsFromResource.getElement("/XmlNops/Page").getName(), Matchers.equalTo("Page"));
-        LOGGER.info("@testXmlToolsFromResource: Page.name equals '"
-                + xmlToolsFromResource.getElement("/XmlNops/Page").getName()
-                +"' -> " + xmlToolsFromResource.getElement("/XmlNops/Page").getName().equals("Page"));
+            assertThat(xmlToolsFromResource.getElement("/XmlNops/Page").getName(), Matchers.equalTo("Page"));
+            LOGGER.info("@testXmlToolsFromResource: Page.name equals '"
+                    + xmlToolsFromResource.getElement("/XmlNops/Page").getName()
+                    +"' -> " + xmlToolsFromResource.getElement("/XmlNops/Page").getName().equals("Page"));
+        }catch(Exception e){
+
+        }
+
     }
 
     @Test
@@ -126,11 +131,29 @@ public class XMLToolsTest extends TestCase{
     }
 
     @Test
+    public void testGetElementException(){
+        Element folding = null;
+        try {
+            folding = xmlToolsFromResource.getElement("/XmlNops/Document/Folding_");
+        } catch (XMLToolException e) {
+            LOGGER.info("@testGetElement(XMLToolException): " + e.getMessage());
+            assertThat(folding, Matchers.nullValue());
+        }
+
+    }
+
+    @Test
     public void testGetElement(){
-        Element folding = xmlToolsFromResource.getElement("/XmlNops/Document/Folding");
-        assertThat(folding.getName(), Matchers.equalTo("Folding"));
-        LOGGER.info("@testGetElement(folding): equalTo('Folding'): " + folding.getName().equals("Folding")
-                + " -> " + xmlToolsFromResource.display(folding));
+        Element folding = null;
+        try {
+            folding = xmlToolsFromResource.getElement("/XmlNops/Document/Folding");
+            assertThat(folding.getName(), Matchers.equalTo("Folding"));
+            LOGGER.info("@testGetElement(Folding): Element name: " + folding.getName());
+        } catch (XMLToolException e) {
+            LOGGER.info("@testGetElement(XMLToolException): " + e.getMessage());
+            assertThat(folding, Matchers.nullValue());
+        }
+
     }
 
     @Test
@@ -145,7 +168,12 @@ public class XMLToolsTest extends TestCase{
     public void testUpdateElement() {
         String xPath = "/XmlNops/Document/Folding";
         xmlToolsFromResource.updateElement(xPath, "rno");
-        Element origin = xmlToolsFromResource.getElement(xPath);
+        Element origin = null;
+        try {
+            origin = xmlToolsFromResource.getElement(xPath);
+        } catch (XMLToolException e) {
+            e.printStackTrace();
+        }
         assertThat(origin.getValue(), Matchers.equalTo("rno"));
         LOGGER.info("@testUpdateElement(origin): equalsTo('rno'): " + origin.getValue().equals("rno")
                 + " -> " + xmlToolsFromResource.display(origin));
@@ -165,7 +193,12 @@ public class XMLToolsTest extends TestCase{
     public void testAppendElement(){
         String xPath="/XmlNops";
         xmlToolsFromResource.appendElement(xPath,"rno", "value");
-        Element element = xmlToolsFromResource.getElement("/XmlNops/rno");
+        Element element = null;
+        try {
+            element = xmlToolsFromResource.getElement("/XmlNops/rno");
+        } catch (XMLToolException e) {
+            e.printStackTrace();
+        }
         assertThat(element.getName(), Matchers.equalTo("rno"));
         LOGGER.info("@testAppendElement(/XmlNops/rno): rno.name equalsTo('rno'): " + element.getName().equals("rno")
                 + " -> " + xmlToolsFromResource.display(xmlToolsFromResource.getRoot()));
@@ -185,7 +218,12 @@ public class XMLToolsTest extends TestCase{
     public void testDeleteElement(){
         String xPath = "/XmlNops/File";
         xmlToolsFromResource.deleteElement(xPath);
-        Element element = xmlToolsFromResource.getElement(xPath);
+        Element element = null;
+        try {
+            element = xmlToolsFromResource.getElement(xPath);
+        } catch (XMLToolException e) {
+            e.printStackTrace();
+        }
         assertNull(element);
         LOGGER.info("@testDeleteElement(/XmlNops/File): XmlNops/File.name equalsTo('File'): " + null
                 + " \n-> " + xmlToolsFromResource.display(xmlToolsFromResource.getRoot()));
