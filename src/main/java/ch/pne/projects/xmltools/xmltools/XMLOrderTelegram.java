@@ -1,5 +1,6 @@
 package ch.pne.projects.xmltools.xmltools;
 
+import ch.pne.projects.xmltools.exceptions.XMLToolException;
 import ch.pne.projects.xmltools.objects.Order;
 import ch.pne.projects.xmltools.objects.Supplement;
 import org.apache.log4j.Logger;
@@ -17,7 +18,11 @@ public class XMLOrderTelegram {
         Document document = new Document();
         Element root = new Element("Order");
         document.addContent(root);
-        this.xmlOrderTools = new XMLTools(document);
+        try {
+            this.xmlOrderTools = new XMLTools(document);
+        } catch (XMLToolException e) {
+            e.printStackTrace();
+        }
     }
 
     public XMLOrderTelegram() {

@@ -1,6 +1,7 @@
 package ch.pne.projects.xmltools.junit;
 
 import ch.pne.projects.xmltools.enums.XMLSource;
+import ch.pne.projects.xmltools.exceptions.XMLToolException;
 import ch.pne.projects.xmltools.templates.XMLTemplates;
 import ch.pne.projects.xmltools.xmltools.XMLTools;
 import junit.framework.TestCase;
@@ -90,6 +91,38 @@ public class XMLToolsTest extends TestCase{
         LOGGER.info("@testxmlToolsFromDocument: root.name equals 'root' -> "
                 + xmlToolsFromDocument.getRoot().getName().equals("root"));
 
+    }
+
+    @Test
+    public void testXmlToolsFromDocumentNullException(){
+        xmlToolsFromDocument = null;
+        try {
+            xmlToolsFromDocument = new XMLTools(null);
+        } catch (XMLToolException e) {
+            assertThat(xmlToolsFromDocument, Matchers.nullValue());
+            LOGGER.info("@testXmlToolsFromDocumentException: xmlToolsFromDocument nullValue() 'true' -> "
+                + Matchers.nullValue().toString());
+            LOGGER.error(e.getMessage());
+        }finally {
+            LOGGER.info("@testXmlToolsFromDocumentException: finally");
+        }
+    }
+
+    @Test
+    public void testXmlToolsFromDocumentRootNullException(){
+        Document doc = new Document();
+        //doc.setContent(new Element("root"));
+        try {
+            xmlToolsFromDocument = new XMLTools(doc);
+            assertThat(doc.getRootElement(), Matchers.nullValue());
+        } catch (XMLToolException e) {
+
+            LOGGER.info("@testXmlToolsFromDocumentException: xmlToolsFromDocument.getRoot nullValue() 'true' -> "
+                    + Matchers.nullValue().toString());
+            LOGGER.error(e.getMessage());
+        }finally {
+            LOGGER.info("@testXmlToolsFromDocumentException: finally");
+        }
     }
 
     @Test

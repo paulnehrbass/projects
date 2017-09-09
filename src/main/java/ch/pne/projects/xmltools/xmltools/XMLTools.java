@@ -1,6 +1,7 @@
 package ch.pne.projects.xmltools.xmltools;
 
 import ch.pne.projects.xmltools.enums.XMLSource;
+import ch.pne.projects.xmltools.exceptions.XMLToolException;
 import org.apache.log4j.Logger;
 import org.jdom2.Attribute;
 import org.jdom2.Document;
@@ -45,10 +46,19 @@ public class XMLTools {
     }
 
     // XMLTools(Document document): creates a new XMLTools instance from jdom2 document.
-    public XMLTools(Document document) {
+    public XMLTools(Document document) throws XMLToolException {
+        if(document == null){
+            throw new XMLToolException("'document' must not be null! Error in XMLTools(Document document)");
+        }
         this.document = document;
         this.source = document.getBaseURI();
-        this.root = document.getRootElement();
+
+        try {
+            this.root = document.getRootElement();
+        }catch (Exception e){
+            throw new XMLToolException("'root' node of document must not be null! Error in XMLTools(Document document)"
+                    , e);
+        }
         LOGGER.debug("XMLTools-Document created from Document with root-node: " + document.getRootElement().getName());
     }
 
